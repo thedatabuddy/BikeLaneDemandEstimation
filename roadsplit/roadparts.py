@@ -15,7 +15,8 @@ for i in range(data.shape[0]):
 
 for i in range(data.shape[0]):
     data.loc[i, 'streetstart'] = (data.iloc[i]['minstreet'] - (data.iloc[i]['minstreet'] % 10))*100
-    data.loc[i, 'streetend'] = (data.iloc[i]['maxstreet'] - (data.iloc[i]['maxstreet'] % 10)+10)*100
+    data.loc[i, 'streetend']\
+        = (data.iloc[i]['maxstreet'] - (data.iloc[i]['maxstreet'] % 10)+10)*100
 data=data.replace(0,100)
 
 for i in range(data.shape[0]):

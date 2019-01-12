@@ -1,0 +1,1091 @@
+;streetname;startstreet;endstreet
+0;Abbey Pl;1000;1500
+1;Abbey Pl;1500;2000
+2;Albemarle Rd;5000;5500
+3;Albemarle Rd;5500;6000
+4;Albemarle Rd;6000;6500
+5;Albemarle Rd;6500;7000
+6;Albemarle Rd;7000;7500
+7;Albemarle Rd;7500;8000
+8;Albemarle Rd;8000;8500
+9;Albemarle Rd;8500;9000
+10;Albemarle Rd;9000;9500
+11;Albemarle Rd;9500;10000
+12;Albemarle Rd;10000;10500
+13;Albemarle Rd;10500;11000
+14;Albemarle Rd;11000;11500
+15;Albemarle Rd;11500;12000
+16;Albemarle Rd;12000;12500
+17;Albemarle Rd;12500;13000
+18;Alleghany St;1000;1500
+19;Alleghany St;1500;2000
+20;Allen St;1000;1500
+21;Allen St;1500;2000
+22;Allenbrook Dr;1000;1500
+23;Allenbrook Dr;1500;2000
+24;Amos Smith Rd;6000;6500
+25;Amos Smith Rd;6500;7000
+26;Ann Marie Dr;100;600
+27;Ann Marie Dr;600;1100
+28;Apple Pie Ct;9000;9500
+29;Apple Pie Ct;9500;10000
+30;Ardrey Kell Rd;9000;9500
+31;Ardrey Kell Rd;9500;10000
+32;Atando Ave;100;600
+33;Atando Ave;600;1100
+34;Austin Ridge Ln;9000;9500
+35;Austin Ridge Ln;9500;10000
+36;Aventide Ln;9000;9500
+37;Aventide Ln;9500;10000
+38;Back Creek Church Rd;4000;4500
+39;Back Creek Church Rd;4500;5000
+40;Ballantyne Commons Pkwy;10000;10500
+41;Ballantyne Commons Pkwy;10500;11000
+42;Ballantyne Commons Py;5000;5500
+43;Ballantyne Commons Py;5500;6000
+44;Baxter St;1000;1500
+45;Baxter St;1500;2000
+46;Bay St;2000;2500
+47;Bay St;2500;3000
+48;Baybrook Ln;9000;9500
+49;Baybrook Ln;9500;10000
+50;Beam Rd;2000;2500
+51;Beam Rd;2500;3000
+52;Beatties Ford Rd;100;600
+53;Beatties Ford Rd;600;1100
+54;Beatties Ford Rd;1100;1600
+55;Beatties Ford Rd;1600;2100
+56;Beatties Ford Rd;2100;2600
+57;Beatties Ford Rd;2600;3100
+58;Beatties Ford Rd;3100;3600
+59;Beatties Ford Rd;3600;4100
+60;Bellhaven Blvd;8000;8500
+61;Bellhaven Blvd;8500;9000
+62;Belmont Ave;1000;1500
+63;Belmont Ave;1500;2000
+64;Belvedere Ave;2000;2500
+65;Belvedere Ave;2500;3000
+66;Black Kettle Dr;1000;1500
+67;Black Kettle Dr;1500;2000
+68;Blue Heron Dr;10000;10500
+69;Blue Heron Dr;10500;11000
+70;Boyer St;2000;2500
+71;Boyer St;2500;3000
+72;Bradford Dr;100;600
+73;Bradford Dr;600;1100
+74;Brice St;2000;2500
+75;Brice St;2500;3000
+76;Broad Hollow Dr;4000;4500
+77;Broad Hollow Dr;4500;5000
+78;Brookwood Rd;2000;2500
+79;Brookwood Rd;2500;3000
+80;Brown-grier Rd;13000;13500
+81;Brown-grier Rd;13500;14000
+82;Browne Rd;8000;8500
+83;Browne Rd;8500;9000
+84;Burton St;1000;1500
+85;Burton St;1500;2000
+86;Caldwell Rd;12000;12500
+87;Caldwell Rd;12500;13000
+88;Cambridge Commons Dr;7000;7500
+89;Cambridge Commons Dr;7500;8000
+90;Camden Rd;1000;1500
+91;Camden Rd;1500;2000
+92;Camp Greene St;1000;1500
+93;Camp Greene St;1500;2000
+94;Camp Stewart Rd;3000;3500
+95;Camp Stewart Rd;3500;4000
+96;Camp Stewart Rd;4000;4500
+97;Camp Stewart Rd;4500;5000
+98;Camp Stewart Rd;5000;5500
+99;Camp Stewart Rd;5500;6000
+100;Carmel Rd;6000;6500
+101;Carmel Rd;6500;7000
+102;Cayenne Dr;9000;9500
+103;Cayenne Dr;9500;10000
+104;Center Park Dr;100;600
+105;Center Park Dr;600;1100
+106;Central Ave;1000;1500
+107;Central Ave;1500;2000
+108;Central Ave;2000;2500
+109;Central Ave;2500;3000
+110;Central Ave;3000;3500
+111;Central Ave;3500;4000
+112;Central Ave;4000;4500
+113;Central Ave;4500;5000
+114;Central Ave;5000;5500
+115;Central Ave;5500;6000
+116;Central Dr;9000;9500
+117;Central Dr;9500;10000
+118;Charlottetowne Ave;100;600
+119;Charlottetowne Ave;600;1100
+120;Chestnut Lake Dr;5000;5500
+121;Chestnut Lake Dr;5500;6000
+122;Chilham Pl;3000;3500
+123;Chilham Pl;3500;4000
+124;Churchill Downs Ct;100;600
+125;Churchill Downs Ct;600;1100
+126;City View Dr;6000;6500
+127;City View Dr;6500;7000
+128;Clanton Rd;100;600
+129;Clanton Rd;600;1100
+130;Clanton Rd;1100;1600
+131;Clanton Rd;1600;2100
+132;Clarke Creek Pkwy;6000;6500
+133;Clarke Creek Pkwy;6500;7000
+134;Coddington Pl;1000;1500
+135;Coddington Pl;1500;2000
+136;Colony Acres Dr;100;600
+137;Colony Acres Dr;600;1100
+138;Colony Rd;2000;2500
+139;Colony Rd;2500;3000
+140;Colony Rd;3000;3500
+141;Colony Rd;3500;4000
+142;Colony Rd;4000;4500
+143;Colony Rd;4500;5000
+144;Colony Rd;5000;5500
+145;Colony Rd;5500;6000
+146;Colony Rd;6000;6500
+147;Colony Rd;6500;7000
+148;Colony Rd;7000;7500
+149;Colony Rd;7500;8000
+150;Columbus Crk;2000;2500
+151;Columbus Crk;2500;3000
+152;Commonwealth Ave;1000;1500
+153;Commonwealth Ave;1500;2000
+154;Concord Rd;8000;8500
+155;Concord Rd;8500;9000
+156;Conway Ave;4000;4500
+157;Conway Ave;4500;5000
+158;Cotillion Ave;3000;3500
+159;Cotillion Ave;3500;4000
+160;Country Club Dr;3000;3500
+161;Country Club Dr;3500;4000
+162;Cowles Rd;2000;2500
+163;Cowles Rd;2500;3000
+164;Craftsbury Dr;5000;5500
+165;Craftsbury Dr;5500;6000
+166;Craigwood Dr;4000;4500
+167;Craigwood Dr;4500;5000
+168;Credenza Rd;3000;3500
+169;Credenza Rd;3500;4000
+170;Crestridge Dr;3000;3500
+171;Crestridge Dr;3500;4000
+172;Cumberland Ave;2000;2500
+173;Cumberland Ave;2500;3000
+174;Davis Lake Py;8000;8500
+175;Davis Lake Py;8500;9000
+176;Deanna Ln;100;600
+177;Deanna Ln;600;1100
+178;Dearmon Rd;12000;12500
+179;Dearmon Rd;12500;13000
+180;Deermont Ct;6000;6500
+181;Deermont Ct;6500;7000
+182;Dekalb Pl;11000;11500
+183;Dekalb Pl;11500;12000
+184;Dilworth Heights Ln;2000;2500
+185;Dilworth Heights Ln;2500;3000
+186;Dion Ave;2000;2500
+187;Dion Ave;2500;3000
+188;Dunlavin Way;2000;2500
+189;Dunlavin Way;2500;3000
+190;E 18th St;100;600
+191;E 18th St;600;1100
+192;E 18th St;1100;1600
+193;E 18th St;1600;2100
+194;E 20th St;100;600
+195;E 20th St;600;1100
+196;E 4th St;100;600
+197;E 4th St;600;1100
+198;E 4th St;1100;1600
+199;E 4th St;1600;2100
+200;E 7th St;100;600
+201;E 7th St;600;1100
+202;E 7th St;1100;1600
+203;E 7th St;1600;2100
+204;E 7th St;2100;2600
+205;E 7th St;2600;3100
+206;E 8th St;100;600
+207;E 8th St;600;1100
+208;E Arrowood Rd;100;600
+209;E Arrowood Rd;600;1100
+210;E Bv;1000;1500
+211;E Bv;1500;2000
+212;E Independence Blvd;5000;5500
+213;E Independence Blvd;5500;6000
+214;E Independence Blvd;6000;6500
+215;E Independence Blvd;6500;7000
+216;E Independence Blvd;7000;7500
+217;E Independence Blvd;7500;8000
+218;E Independence Bv;6000;6500
+219;E Independence Bv;6500;7000
+220;E Independence Bv;7000;7500
+221;E Independence Bv;7500;8000
+222;E Independence Bv;8000;8500
+223;E Independence Bv;8500;9000
+224;E Kingston Ave;100;600
+225;E Kingston Ave;600;1100
+226;E Martin Luther King Jr Blvd;100;600
+227;E Martin Luther King Jr Blvd;600;1100
+228;E Sugar Creek Rd;100;600
+229;E Sugar Creek Rd;600;1100
+230;E Trade St;100;600
+231;E Trade St;600;1100
+232;E Tremont Ave;100;600
+233;E Tremont Ave;600;1100
+234;E W T Harris Blvd;6000;6500
+235;E W T Harris Blvd;6500;7000
+236;E W T Harris Blvd;7000;7500
+237;E W T Harris Blvd;7500;8000
+238;E W T Harris Blvd;8000;8500
+239;E W T Harris Blvd;8500;9000
+240;E W T Harris Bv;6000;6500
+241;E W T Harris Bv;6500;7000
+242;E W T Harris Bv;7000;7500
+243;E W T Harris Bv;7500;8000
+244;E W T Harris Bv;8000;8500
+245;E W T Harris Bv;8500;9000
+246;E Woodlawn Rd;100;600
+247;E Woodlawn Rd;600;1100
+248;E Woodlawn Rd;1100;1600
+249;E Woodlawn Rd;1600;2100
+250;East Blvd;100;600
+251;East Blvd;600;1100
+252;East Blvd;1100;1600
+253;East Blvd;1600;2100
+254;Eastcrest Dr;1000;1500
+255;Eastcrest Dr;1500;2000
+256;Eastover Ridge Dr;3000;3500
+257;Eastover Ridge Dr;3500;4000
+258;Eastway Dr;100;600
+259;Eastway Dr;600;1100
+260;Eastway Dr;1100;1600
+261;Eastway Dr;1600;2100
+262;Eastway Dr;2100;2600
+263;Eastway Dr;2600;3100
+264;Eastway Dr;3100;3600
+265;Eastway Dr;3600;4100
+266;Eleanor Dr;4000;4500
+267;Eleanor Dr;4500;5000
+268;Elgywood Ln;6000;6500
+269;Elgywood Ln;6500;7000
+270;Elizabeth Ave;1000;1500
+271;Elizabeth Ave;1500;2000
+272;Ellendale Dr;6000;6500
+273;Ellendale Dr;6500;7000
+274;Elm Ln;10000;10500
+275;Elm Ln;10500;11000
+276;Emerywood Dr;1000;1500
+277;Emerywood Dr;1500;2000
+278;Eneida Sue Dr;5000;5500
+279;Eneida Sue Dr;5500;6000
+280;English Dr;2000;2500
+281;English Dr;2500;3000
+282;Erwin Ridge Ave;11000;11500
+283;Erwin Ridge Ave;11500;12000
+284;Executive Center Dr;5000;5500
+285;Executive Center Dr;5500;6000
+286;Fairdale Dr;2000;2500
+287;Fairdale Dr;2500;3000
+288;Fairstone Ave;2000;2500
+289;Fairstone Ave;2500;3000
+290;Fairview Rd;6000;6500
+291;Fairview Rd;6500;7000
+292;Fairvista Dr;5000;5500
+293;Fairvista Dr;5500;6000
+294;Farmfield Ln;1000;1500
+295;Farmfield Ln;1500;2000
+296;Farmhurst Dr;100;600
+297;Farmhurst Dr;600;1100
+298;Fernwood Dr;7000;7500
+299;Fernwood Dr;7500;8000
+300;Fielding Rd;100;600
+301;Fielding Rd;600;1100
+302;Firelight Ln;5000;5500
+303;Firelight Ln;5500;6000
+304;Fisher's Farm Ln;6000;6500
+305;Fisher's Farm Ln;6500;7000
+306;Flagstaff Dr;5000;5500
+307;Flagstaff Dr;5500;6000
+308;Freedom Dr;2000;2500
+309;Freedom Dr;2500;3000
+310;Freedom Dr;3000;3500
+311;Freedom Dr;3500;4000
+312;Frew Rd;3000;3500
+313;Frew Rd;3500;4000
+314;Galloway Rd;2000;2500
+315;Galloway Rd;2500;3000
+316;Galway Dr;5000;5500
+317;Galway Dr;5500;6000
+318;General Commerce Dr;6000;6500
+319;General Commerce Dr;6500;7000
+320;Glenfall Ave;3000;3500
+321;Glenfall Ave;3500;4000
+322;Green Hedge Ave;10000;10500
+323;Green Hedge Ave;10500;11000
+324;Greywood Dr;4000;4500
+325;Greywood Dr;4500;5000
+326;Griffith St;2000;2500
+327;Griffith St;2500;3000
+328;Habersham Pointe Cir;8000;8500
+329;Habersham Pointe Cir;8500;9000
+330;Hamilton Crk;4000;4500
+331;Hamilton Crk;4500;5000
+332;Hamlin Park Dr;2000;2500
+333;Hamlin Park Dr;2500;3000
+334;Hankins Rd;8000;8500
+335;Hankins Rd;8500;9000
+336;Harrisburg Rd;7000;7500
+337;Harrisburg Rd;7500;8000
+338;Harrisburg Rd;8000;8500
+339;Harrisburg Rd;8500;9000
+340;Harrisburg Rd;9000;9500
+341;Harrisburg Rd;9500;10000
+342;Harrisburg Rd;10000;10500
+343;Harrisburg Rd;10500;11000
+344;Hartford Ave;100;600
+345;Hartford Ave;600;1100
+346;Hawthorne Ln;100;600
+347;Hawthorne Ln;600;1100
+348;Heatherwood Ln;6000;6500
+349;Heatherwood Ln;6500;7000
+350;Hemphill St;2000;2500
+351;Hemphill St;2500;3000
+352;Hidden Forest Dr;6000;6500
+353;Hidden Forest Dr;6500;7000
+354;Highlake Dr;5000;5500
+355;Highlake Dr;5500;6000
+356;Hilo Dr;100;600
+357;Hilo Dr;600;1100
+358;Houston Branch Rd;3000;3500
+359;Houston Branch Rd;3500;4000
+360;Hunters Crossing Ln;6000;6500
+361;Hunters Crossing Ln;6500;7000
+362;I- 85 Svc Rd;2000;2500
+363;I- 85 Svc Rd;2500;3000
+364;I- 85 Svc Rd;3000;3500
+365;I- 85 Svc Rd;3500;4000
+366;I- 85 Svc Rd;4000;4500
+367;I- 85 Svc Rd;4500;5000
+368;I- 85 Svc Rd;5000;5500
+369;I- 85 Svc Rd;5500;6000
+370;Idlewild Rd;6000;6500
+371;Idlewild Rd;6500;7000
+372;Idlewild Rd;7000;7500
+373;Idlewild Rd;7500;8000
+374;Idlewild Rd;8000;8500
+375;Idlewild Rd;8500;9000
+376;Idlewild Rd;9000;9500
+377;Idlewild Rd;9500;10000
+378;J W Clay Blvd;8000;8500
+379;J W Clay Blvd;8500;9000
+380;Jackson Ave;100;600
+381;Jackson Ave;600;1100
+382;John Adams Rd;9000;9500
+383;John Adams Rd;9500;10000
+384;Johnston Rd;9000;9500
+385;Johnston Rd;9500;10000
+386;Johnston Rd;10000;10500
+387;Johnston Rd;10500;11000
+388;Johnston Rd;11000;11500
+389;Johnston Rd;11500;12000
+390;Johnston Rd;12000;12500
+391;Johnston Rd;12500;13000
+392;Jones St;100;600
+393;Jones St;600;1100
+394;Joyce Dr;5000;5500
+395;Joyce Dr;5500;6000
+396;Julia Ave;2000;2500
+397;Julia Ave;2500;3000
+398;Justice Ave;1000;1500
+399;Justice Ave;1500;2000
+400;Kelston Pl;1000;1500
+401;Kelston Pl;1500;2000
+402;Kenhill Dr;2000;2500
+403;Kenhill Dr;2500;3000
+404;Kennon St;1000;1500
+405;Kennon St;1500;2000
+406;Kestrel Ct;6000;6500
+407;Kestrel Ct;6500;7000
+408;Key St;100;600
+409;Key St;600;1100
+410;Kiev Dr;5000;5500
+411;Kiev Dr;5500;6000
+412;Kilborne Dr;2000;2500
+413;Kilborne Dr;2500;3000
+414;Kingville Dr;100;600
+415;Kingville Dr;600;1100
+416;Labeau Ave;14000;14500
+417;Labeau Ave;14500;15000
+418;Lagrande Dr;5000;5500
+419;Lagrande Dr;5500;6000
+420;Lansdale Dr;1000;1500
+421;Lansdale Dr;1500;2000
+422;Lasalle St;1000;1500
+423;Lasalle St;1500;2000
+424;Lasalle St;2000;2500
+425;Lasalle St;2500;3000
+426;Lawyers Rd;6000;6500
+427;Lawyers Rd;6500;7000
+428;Lawyers Rd;7000;7500
+429;Lawyers Rd;7500;8000
+430;Lawyers Rd;8000;8500
+431;Lawyers Rd;8500;9000
+432;Lawyers Rd;9000;9500
+433;Lawyers Rd;9500;10000
+434;Long Cove Dr;12000;12500
+435;Long Cove Dr;12500;13000
+436;Lucena St;2000;2500
+437;Lucena St;2500;3000
+438;Mallard Creek Rd;7000;7500
+439;Mallard Creek Rd;7500;8000
+440;Mallard Creek Rd;8000;8500
+441;Mallard Creek Rd;8500;9000
+442;Mallard Creek Rd;9000;9500
+443;Mallard Creek Rd;9500;10000
+444;Mallard Creek Rd;10000;10500
+445;Mallard Creek Rd;10500;11000
+446;Marney Ave;2000;2500
+447;Marney Ave;2500;3000
+448;Matheson Ave;1000;1500
+449;Matheson Ave;1500;2000
+450;Matheson Ave;2000;2500
+451;Matheson Ave;2500;3000
+452;Maywood Dr;3000;3500
+453;Maywood Dr;3500;4000
+454;McAllister Dr;2000;2500
+455;McAllister Dr;2500;3000
+456;Melshire Ln;3000;3500
+457;Melshire Ln;3500;4000
+458;Milton Rd;1000;1500
+459;Milton Rd;1500;2000
+460;Mnr;3000;3500
+461;Mnr;3500;4000
+462;Monroe Rd;3000;3500
+463;Monroe Rd;3500;4000
+464;Monroe Rd;4000;4500
+465;Monroe Rd;4500;5000
+466;Monroe Rd;5000;5500
+467;Monroe Rd;5500;6000
+468;Monroe Rd;6000;6500
+469;Monroe Rd;6500;7000
+470;Monroe Rd;7000;7500
+471;Monroe Rd;7500;8000
+472;Monroe Rd;8000;8500
+473;Monroe Rd;8500;9000
+474;Monroe Rd;9000;9500
+475;Monroe Rd;9500;10000
+476;Monteith Dr;6000;6500
+477;Monteith Dr;6500;7000
+478;Moores Chapel Rd;8000;8500
+479;Moores Chapel Rd;8500;9000
+480;Moray Ct;1000;1500
+481;Moray Ct;1500;2000
+482;Morning Dr;3000;3500
+483;Morning Dr;3500;4000
+484;Morrison Bv;6000;6500
+485;Morrison Bv;6500;7000
+486;Mounting Rock Rd;6000;6500
+487;Mounting Rock Rd;6500;7000
+488;Mullens Ford Rd;4000;4500
+489;Mullens Ford Rd;4500;5000
+490;N;100;600
+491;N;600;1100
+492;N Caldwell St;100;600
+493;N Caldwell St;600;1100
+494;N Caldwell St;1100;1600
+495;N Caldwell St;1600;2100
+496;N Cedar St;100;600
+497;N Cedar St;600;1100
+498;N Church St;100;600
+499;N Church St;600;1100
+500;N College St;100;600
+501;N College St;600;1100
+502;N Davidson St;100;600
+503;N Davidson St;600;1100
+504;N Davidson St;1100;1600
+505;N Davidson St;1600;2100
+506;N Davidson St;2100;2600
+507;N Davidson St;2600;3100
+508;N Graham St;100;600
+509;N Graham St;600;1100
+510;N Graham St;1100;1600
+511;N Graham St;1600;2100
+512;N Graham St;2100;2600
+513;N Graham St;2600;3100
+514;N Graham St;3100;3600
+515;N Graham St;3600;4100
+516;N Graham St;4100;4600
+517;N Graham St;4600;5100
+518;N Graham St;5100;5600
+519;N Graham St;5600;6100
+520;N I - 85 Svc Rd;1000;1500
+521;N I - 85 Svc Rd;1500;2000
+522;N I - 85 Svc Rd;2000;2500
+523;N I - 85 Svc Rd;2500;3000
+524;N Poplar St;100;600
+525;N Poplar St;600;1100
+526;N Sharon Amity Rd;100;600
+527;N Sharon Amity Rd;600;1100
+528;N Sharon Amity Rd;1100;1600
+529;N Sharon Amity Rd;1600;2100
+530;N Sharon Amity Rd;2100;2600
+531;N Sharon Amity Rd;2600;3100
+532;N Sharon Amity Rd;3100;3600
+533;N Sharon Amity Rd;3600;4100
+534;N Sharon Amity Rd;4100;4600
+535;N Sharon Amity Rd;4600;5100
+536;N Sharon Amity Rd;5100;5600
+537;N Sharon Amity Rd;5600;6100
+538;N Tryon St;100;600
+539;N Tryon St;600;1100
+540;N Tryon St;1100;1600
+541;N Tryon St;1600;2100
+542;N Tryon St;2100;2600
+543;N Tryon St;2600;3100
+544;N Tryon St;3100;3600
+545;N Tryon St;3600;4100
+546;N Tryon St;4100;4600
+547;N Tryon St;4600;5100
+548;N Tryon St;5100;5600
+549;N Tryon St;5600;6100
+550;N Tryon St;6100;6600
+551;N Tryon St;6600;7100
+552;N Tryon St;7100;7600
+553;N Tryon St;7600;8100
+554;N Tryon St;8100;8600
+555;N Tryon St;8600;9100
+556;N Tryon St;9100;9600
+557;N Tryon St;9600;10100
+558;N Wendover Rd;100;600
+559;N Wendover Rd;600;1100
+560;N Wendover Rd;1100;1600
+561;N Wendover Rd;1600;2100
+562;Narayan St;4000;4500
+563;Narayan St;4500;5000
+564;Nations Ford Rd;6000;6500
+565;Nations Ford Rd;6500;7000
+566;Nelson Ave;100;600
+567;Nelson Ave;600;1100
+568;Nevin Rd;4000;4500
+569;Nevin Rd;4500;5000
+570;Nobles Ave;3000;3500
+571;Nobles Ave;3500;4000
+572;Nolen Park Ln;2000;2500
+573;Nolen Park Ln;2500;3000
+574;Oak Pasture Ln;5000;5500
+575;Oak Pasture Ln;5500;6000
+576;Oaklawn Ave;1000;1500
+577;Oaklawn Ave;1500;2000
+578;Old Concord Rd;5000;5500
+579;Old Concord Rd;5500;6000
+580;Old Concord Rd;6000;6500
+581;Old Concord Rd;6500;7000
+582;Old Concord Rd;7000;7500
+583;Old Concord Rd;7500;8000
+584;Old Concord Rd;8000;8500
+585;Old Concord Rd;8500;9000
+586;Old Concord Rd;9000;9500
+587;Old Concord Rd;9500;10000
+588;Old Concord Rd;10000;10500
+589;Old Concord Rd;10500;11000
+590;Old Pineville Rd;4000;4500
+591;Old Pineville Rd;4500;5000
+592;Old Pineville Rd;5000;5500
+593;Old Pineville Rd;5500;6000
+594;Old Pineville Rd;6000;6500
+595;Old Pineville Rd;6500;7000
+596;Old Prairie Rd;12000;12500
+597;Old Prairie Rd;12500;13000
+598;Old Providence Rd;6000;6500
+599;Old Providence Rd;6500;7000
+600;Old Timber Rd;11000;11500
+601;Old Timber Rd;11500;12000
+602;Olde Sycamore Dr;7000;7500
+603;Olde Sycamore Dr;7500;8000
+604;Orchard Cir;100;600
+605;Orchard Cir;600;1100
+606;Park Rd;4000;4500
+607;Park Rd;4500;5000
+608;Park Rd;5000;5500
+609;Park Rd;5500;6000
+610;Park Rd;6000;6500
+611;Park Rd;6500;7000
+612;Park Rd;7000;7500
+613;Park Rd;7500;8000
+614;Park Rd;8000;8500
+615;Park Rd;8500;9000
+616;Park Rd;9000;9500
+617;Park Rd;9500;10000
+618;Park Rd;10000;10500
+619;Park Rd;10500;11000
+620;Park South Dr;6000;6500
+621;Park South Dr;6500;7000
+622;Park Willow Dr;10000;10500
+623;Park Willow Dr;10500;11000
+624;Pavilion Bv;1000;1500
+625;Pavilion Bv;1500;2000
+626;Pecan Ave;100;600
+627;Pecan Ave;600;1100
+628;Petrea Ln;7000;7500
+629;Petrea Ln;7500;8000
+630;Phillips Ave;2000;2500
+631;Phillips Ave;2500;3000
+632;Pine Meadow Dr;3000;3500
+633;Pine Meadow Dr;3500;4000
+634;Pineville-matthews Rd;1000;1500
+635;Pineville-matthews Rd;1500;2000
+636;Pineville-matthews Rd;2000;2500
+637;Pineville-matthews Rd;2500;3000
+638;Pineville-matthews Rd;3000;3500
+639;Pineville-matthews Rd;3500;4000
+640;Pineville-matthews Rd;4000;4500
+641;Pineville-matthews Rd;4500;5000
+642;Pineville-matthews Rd;5000;5500
+643;Pineville-matthews Rd;5500;6000
+644;Pineville-matthews Rd;6000;6500
+645;Pineville-matthews Rd;6500;7000
+646;Pineville-matthews Rd;7000;7500
+647;Pineville-matthews Rd;7500;8000
+648;Plaza Rd Ext;9000;9500
+649;Plaza Rd Ext;9500;10000
+650;Plaza Rd Ext;10000;10500
+651;Plaza Rd Ext;10500;11000
+652;Plott Rd;7000;7500
+653;Plott Rd;7500;8000
+654;Polk St;1000;1500
+655;Polk St;1500;2000
+656;Pressley Rd;100;600
+657;Pressley Rd;600;1100
+658;Prosperity Church Rd;3000;3500
+659;Prosperity Church Rd;3500;4000
+660;Prosperity Church Rd;4000;4500
+661;Prosperity Church Rd;4500;5000
+662;Prosperity Church Rd;5000;5500
+663;Prosperity Church Rd;5500;6000
+664;Prosperity Church Rd;6000;6500
+665;Prosperity Church Rd;6500;7000
+666;Providence Rd;100;600
+667;Providence Rd;600;1100
+668;Providence Rd;1100;1600
+669;Providence Rd;1600;2100
+670;Providence Rd;2100;2600
+671;Providence Rd;2600;3100
+672;Providence Rd;3100;3600
+673;Providence Rd;3600;4100
+674;Providence Rd;4100;4600
+675;Providence Rd;4600;5100
+676;Providence Rd;5100;5600
+677;Providence Rd;5600;6100
+678;Providence Rd;6100;6600
+679;Providence Rd;6600;7100
+680;Providence Rd;7100;7600
+681;Providence Rd;7600;8100
+682;Providence Rd;8100;8600
+683;Providence Rd;8600;9100
+684;Providence Rd;9100;9600
+685;Providence Rd;9600;10100
+686;Providence Rd;10100;10600
+687;Providence Rd;10600;11100
+688;Providence Rd;11100;11600
+689;Providence Rd;11600;12100
+690;Providence Rd;12100;12600
+691;Providence Rd;12600;13100
+692;Quail Hollow Rd;5000;5500
+693;Quail Hollow Rd;5500;6000
+694;Quail Hollow Rd;6000;6500
+695;Quail Hollow Rd;6500;7000
+696;Queen Anne Rd;5000;5500
+697;Queen Anne Rd;5500;6000
+698;Queen City Dr;3000;3500
+699;Queen City Dr;3500;4000
+700;Queens Rd;1000;1500
+701;Queens Rd;1500;2000
+702;Queens Rd W;1000;1500
+703;Queens Rd W;1500;2000
+704;Queens Rd W;2000;2500
+705;Queens Rd W;2500;3000
+706;Raeburn Ln;6000;6500
+707;Raeburn Ln;6500;7000
+708;Ramona St;100;600
+709;Ramona St;600;1100
+710;Randolph Rd;2000;2500
+711;Randolph Rd;2500;3000
+712;Randolph Rd;3000;3500
+713;Randolph Rd;3500;4000
+714;Randolph Rd;4000;4500
+715;Randolph Rd;4500;5000
+716;Rea Croft Dr;6000;6500
+717;Rea Croft Dr;6500;7000
+718;Rea Rd;3000;3500
+719;Rea Rd;3500;4000
+720;Rea Rd;4000;4500
+721;Rea Rd;4500;5000
+722;Rea Rd;5000;5500
+723;Rea Rd;5500;6000
+724;Rea Rd;6000;6500
+725;Rea Rd;6500;7000
+726;Rea Rd;7000;7500
+727;Rea Rd;7500;8000
+728;Rea Rd;8000;8500
+729;Rea Rd;8500;9000
+730;Rea Rd;9000;9500
+731;Rea Rd;9500;10000
+732;Reames Rd;8000;8500
+733;Reames Rd;8500;9000
+734;Reece Rd;1000;1500
+735;Reece Rd;1500;2000
+736;Regal Oaks Dr;6000;6500
+737;Regal Oaks Dr;6500;7000
+738;Remount Rd;100;600
+739;Remount Rd;600;1100
+740;Remount Rd;1100;1600
+741;Remount Rd;1600;2100
+742;Ridge Oak Dr;11000;11500
+743;Ridge Oak Dr;11500;12000
+744;Robert Frost Ln;9000;9500
+745;Robert Frost Ln;9500;10000
+746;Robinson Church Rd;6000;6500
+747;Robinson Church Rd;6500;7000
+748;Rodey Ave;100;600
+749;Rodey Ave;600;1100
+750;Rosetta St;1000;1500
+751;Rosetta St;1500;2000
+752;Rozzelles Ferry Rd;1000;1500
+753;Rozzelles Ferry Rd;1500;2000
+754;Rozzelles Ferry Rd;2000;2500
+755;Rozzelles Ferry Rd;2500;3000
+756;Rozzelles Ferry Rd;3000;3500
+757;Rozzelles Ferry Rd;3500;4000
+758;Rozzelles Ferry Rd;4000;4500
+759;Rozzelles Ferry Rd;4500;5000
+760;Rozzelles Ferry Rd;5000;5500
+761;Rozzelles Ferry Rd;5500;6000
+762;Runnymede Ln;2000;2500
+763;Runnymede Ln;2500;3000
+764;Rush Ave;2000;2500
+765;Rush Ave;2500;3000
+766;S Bv;1000;1500
+767;S Bv;1500;2000
+768;S Bv;2000;2500
+769;S Bv;2500;3000
+770;S Bv;3000;3500
+771;S Bv;3500;4000
+772;S Bv;4000;4500
+773;S Bv;4500;5000
+774;S Bv;5000;5500
+775;S Bv;5500;6000
+776;S Bv;6000;6500
+777;S Bv;6500;7000
+778;S Bv;7000;7500
+779;S Bv;7500;8000
+780;S Bv;8000;8500
+781;S Bv;8500;9000
+782;S Bv;9000;9500
+783;S Bv;9500;10000
+784;S Caldwell St;100;600
+785;S Caldwell St;600;1100
+786;S Caldwell St;1100;1600
+787;S Caldwell St;1600;2100
+788;S Church St;100;600
+789;S Church St;600;1100
+790;S College St;100;600
+791;S College St;600;1100
+792;S I - 85 Svc Rd;1000;1500
+793;S I - 85 Svc Rd;1500;2000
+794;S I - 85 Svc Rd;2000;2500
+795;S I - 85 Svc Rd;2500;3000
+796;S I - 85 Svc Rd;3000;3500
+797;S I - 85 Svc Rd;3500;4000
+798;S I- 77 Svc Rd;1000;1500
+799;S I- 77 Svc Rd;1500;2000
+800;S Kings Dr;1000;1500
+801;S Kings Dr;1500;2000
+802;S Lakes Dr;14000;14500
+803;S Lakes Dr;14500;15000
+804;S McDowell St;100;600
+805;S McDowell St;600;1100
+806;S Mint St;1000;1500
+807;S Mint St;1500;2000
+808;S Sharon Amity Rd;100;600
+809;S Sharon Amity Rd;600;1100
+810;S Tryon St;100;600
+811;S Tryon St;600;1100
+812;S Tryon St;1100;1600
+813;S Tryon St;1600;2100
+814;S Tryon St;2100;2600
+815;S Tryon St;2600;3100
+816;S Tryon St;3100;3600
+817;S Tryon St;3600;4100
+818;S Tryon St;4100;4600
+819;S Tryon St;4600;5100
+820;S Tryon St;5100;5600
+821;S Tryon St;5600;6100
+822;S Tryon St;6100;6600
+823;S Tryon St;6600;7100
+824;S Tryon St;7100;7600
+825;S Tryon St;7600;8100
+826;S Tryon St;8100;8600
+827;S Tryon St;8600;9100
+828;S Tryon St;9100;9600
+829;S Tryon St;9600;10100
+830;S Tryon St;10100;10600
+831;S Tryon St;10600;11100
+832;S Tryon St;11100;11600
+833;S Tryon St;11600;12100
+834;Sam Neely Rd;12000;12500
+835;Sam Neely Rd;12500;13000
+836;Sam Wilson Rd;2000;2500
+837;Sam Wilson Rd;2500;3000
+838;Sardis Rd;5000;5500
+839;Sardis Rd;5500;6000
+840;Sargeant Dr;3000;3500
+841;Sargeant Dr;3500;4000
+842;Sebastiani Dr;2000;2500
+843;Sebastiani Dr;2500;3000
+844;Selwyn Ave;1000;1500
+845;Selwyn Ave;1500;2000
+846;Selwyn Ave;2000;2500
+847;Selwyn Ave;2500;3000
+848;Shamrock Dr;3000;3500
+849;Shamrock Dr;3500;4000
+850;Sharon Rd;2000;2500
+851;Sharon Rd;2500;3000
+852;Sharon Rd W;2000;2500
+853;Sharon Rd W;2500;3000
+854;Shenandoah Ave;2000;2500
+855;Shenandoah Ave;2500;3000
+856;Shenandoah Ave;3000;3500
+857;Shenandoah Ave;3500;4000
+858;Singletree Rd;4000;4500
+859;Singletree Rd;4500;5000
+860;Sir Barton Ct;7000;7500
+861;Sir Barton Ct;7500;8000
+862;Sky Haven Dr;3000;3500
+863;Sky Haven Dr;3500;4000
+864;Skyland Ave;100;600
+865;Skyland Ave;600;1100
+866;South Blvd;1000;1500
+867;South Blvd;1500;2000
+868;South Blvd;2000;2500
+869;South Blvd;2500;3000
+870;South Blvd;3000;3500
+871;South Blvd;3500;4000
+872;South Blvd;4000;4500
+873;South Blvd;4500;5000
+874;South Blvd;5000;5500
+875;South Blvd;5500;6000
+876;South Blvd;6000;6500
+877;South Blvd;6500;7000
+878;South Blvd;7000;7500
+879;South Blvd;7500;8000
+880;South Blvd;8000;8500
+881;South Blvd;8500;9000
+882;Split Oak Dr;5000;5500
+883;Split Oak Dr;5500;6000
+884;State Hwy 27;6000;6500
+885;State Hwy 27;6500;7000
+886;State Rd 2828;4000;4500
+887;State Rd 2828;4500;5000
+888;Statesville Ave;3000;3500
+889;Statesville Ave;3500;4000
+890;Statesville Rd;4000;4500
+891;Statesville Rd;4500;5000
+892;Statesville Rd;5000;5500
+893;Statesville Rd;5500;6000
+894;Statesville Rd;6000;6500
+895;Statesville Rd;6500;7000
+896;Statesville Rd;7000;7500
+897;Statesville Rd;7500;8000
+898;Statesville Rd;8000;8500
+899;Statesville Rd;8500;9000
+900;Steele Creek Rd;9000;9500
+901;Steele Creek Rd;9500;10000
+902;Steele Creek Rd;10000;10500
+903;Steele Creek Rd;10500;11000
+904;Steele Creek Rd;11000;11500
+905;Steele Creek Rd;11500;12000
+906;Steele Creek Rd;12000;12500
+907;Steele Creek Rd;12500;13000
+908;Steele Creek Rd;13000;13500
+909;Steele Creek Rd;13500;14000
+910;Steele Creek Rd;14000;14500
+911;Steele Creek Rd;14500;15000
+912;Steele Creek Rd;15000;15500
+913;Steele Creek Rd;15500;16000
+914;Stonehurst Dr;8000;8500
+915;Stonehurst Dr;8500;9000
+916;Sulkirk Rd;3000;3500
+917;Sulkirk Rd;3500;4000
+918;Summertime Dr;2000;2500
+919;Summertime Dr;2500;3000
+920;Sunset Rd;4000;4500
+921;Sunset Rd;4500;5000
+922;Tara Ln;1000;1500
+923;Tara Ln;1500;2000
+924;Telscombe Ct;10000;10500
+925;Telscombe Ct;10500;11000
+926;The Plz;1000;1500
+927;The Plz;1500;2000
+928;The Plz;2000;2500
+929;The Plz;2500;3000
+930;The Plz;3000;3500
+931;The Plz;3500;4000
+932;The Plz;4000;4500
+933;The Plz;4500;5000
+934;The Plz;5000;5500
+935;The Plz;5500;6000
+936;The Plz;6000;6500
+937;The Plz;6500;7000
+938;Tom Hunter Rd;100;600
+939;Tom Hunter Rd;600;1100
+940;Tom Short Rd;12000;12500
+941;Tom Short Rd;12500;13000
+942;Toomey Ave;2000;2500
+943;Toomey Ave;2500;3000
+944;Township Rd;2000;2500
+945;Township Rd;2500;3000
+946;Tuckaseegee Rd;2000;2500
+947;Tuckaseegee Rd;2500;3000
+948;Tuckaseegee Rd;3000;3500
+949;Tuckaseegee Rd;3500;4000
+950;Tuckaseegee Rd;4000;4500
+951;Tuckaseegee Rd;4500;5000
+952;Tynwald Ln;5000;5500
+953;Tynwald Ln;5500;6000
+954;Tyvola Rd;100;600
+955;Tyvola Rd;600;1100
+956;Tyvola Rd;1100;1600
+957;Tyvola Rd;1600;2100
+958;University City Blvd;8000;8500
+959;University City Blvd;8500;9000
+960;University City Blvd;9000;9500
+961;University City Blvd;9500;10000
+962;University City Blvd;10000;10500
+963;University City Blvd;10500;11000
+964;University City Bv;8000;8500
+965;University City Bv;8500;9000
+966;University City Bv;9000;9500
+967;University City Bv;9500;10000
+968;Uxbridge Woods Ct;3000;3500
+969;Uxbridge Woods Ct;3500;4000
+970;Valleydale Rd;100;600
+971;Valleydale Rd;600;1100
+972;Virginia Ave;2000;2500
+973;Virginia Ave;2500;3000
+974;W 24th St;100;600
+975;W 24th St;600;1100
+976;W 3rd St;100;600
+977;W 3rd St;600;1100
+978;W 5th St;100;600
+979;W 5th St;600;1100
+980;W 7th St;100;600
+981;W 7th St;600;1100
+982;W Arrowood Rd;2000;2500
+983;W Arrowood Rd;2500;3000
+984;W Bv;100;600
+985;W Bv;600;1100
+986;W Bv;1100;1600
+987;W Bv;1600;2100
+988;W Bv;2100;2600
+989;W Bv;2600;3100
+990;W Bv;3100;3600
+991;W Bv;3600;4100
+992;W Craighead Rd;100;600
+993;W Craighead Rd;600;1100
+994;W Mallard Creek Church Rd;2000;2500
+995;W Mallard Creek Church Rd;2500;3000
+996;W Mallard Crk;2000;2500
+997;W Mallard Crk;2500;3000
+998;W Morehead St;1000;1500
+999;W Morehead St;1500;2000
+1000;W Stonewall St;100;600
+1001;W Stonewall St;600;1100
+1002;W Sugar Creek Rd;1000;1500
+1003;W Sugar Creek Rd;1500;2000
+1004;W Sugar Creek Rd;2000;2500
+1005;W Sugar Creek Rd;2500;3000
+1006;W Trade St;100;600
+1007;W Trade St;600;1100
+1008;W Tyvola Rd;100;600
+1009;W Tyvola Rd;600;1100
+1010;W Tyvola Rd;1100;1600
+1011;W Tyvola Rd;1600;2100
+1012;W Tyvola Rd;2100;2600
+1013;W Tyvola Rd;2600;3100
+1014;W Tyvola Rd;3100;3600
+1015;W Tyvola Rd;3600;4100
+1016;W Tyvola Rd;4100;4600
+1017;W Tyvola Rd;4600;5100
+1018;W W T Harris Bv;6000;6500
+1019;W W T Harris Bv;6500;7000
+1020;W Woodlawn Rd;100;600
+1021;W Woodlawn Rd;600;1100
+1022;Walden Station Dr;100;600
+1023;Walden Station Dr;600;1100
+1024;Wembley Dr;1000;1500
+1025;Wembley Dr;1500;2000
+1026;West Blvd;1000;1500
+1027;West Blvd;1500;2000
+1028;West Blvd;2000;2500
+1029;West Blvd;2500;3000
+1030;Westfield Rd;3000;3500
+1031;Westfield Rd;3500;4000
+1032;Westinghouse Bv;2000;2500
+1033;Westinghouse Bv;2500;3000
+1034;Weston St;3000;3500
+1035;Weston St;3500;4000
+1036;Whistlestop Rd;7000;7500
+1037;Whistlestop Rd;7500;8000
+1038;Whiting Ave;2000;2500
+1039;Whiting Ave;2500;3000
+1040;Whiting Ave;3000;3500
+1041;Whiting Ave;3500;4000
+1042;Wilkinson Blvd;2000;2500
+1043;Wilkinson Blvd;2500;3000
+1044;Wilkinson Blvd;3000;3500
+1045;Wilkinson Blvd;3500;4000
+1046;Wilkinson Blvd;4000;4500
+1047;Wilkinson Blvd;4500;5000
+1048;Wilkinson Blvd;5000;5500
+1049;Wilkinson Blvd;5500;6000
+1050;Wilkinson Blvd;6000;6500
+1051;Wilkinson Blvd;6500;7000
+1052;Wilkinson Blvd;7000;7500
+1053;Wilkinson Blvd;7500;8000
+1054;Wilkinson Blvd;8000;8500
+1055;Wilkinson Blvd;8500;9000
+1056;Wilkinson Bv;2000;2500
+1057;Wilkinson Bv;2500;3000
+1058;Wilkinson Bv;3000;3500
+1059;Wilkinson Bv;3500;4000
+1060;Wilkinson Bv;4000;4500
+1061;Wilkinson Bv;4500;5000
+1062;William Reynolds Dr;7000;7500
+1063;William Reynolds Dr;7500;8000
+1064;Williams Rd;6000;6500
+1065;Williams Rd;6500;7000
+1066;Willow Run Rd;10000;10500
+1067;Willow Run Rd;10500;11000
+1068;Wilson Grove Rd;6000;6500
+1069;Wilson Grove Rd;6500;7000
+1070;Wilson Grove Rd;7000;7500
+1071;Wilson Grove Rd;7500;8000
+1072;Windsor Crescent Ct;2000;2500
+1073;Windsor Crescent Ct;2500;3000
+1074;Windsor Gate Ln;6000;6500
+1075;Windsor Gate Ln;6500;7000
+1076;Woodbend Dr;6000;6500
+1077;Woodbend Dr;6500;7000
+1078;Wynbrook Way;4000;4500
+1079;Wynbrook Way;4500;5000
+1080;Yale Pl;1000;1500
+1081;Yale Pl;1500;2000
+1082;Yateswood Dr;6000;6500
+1083;Yateswood Dr;6500;7000
+1084;York Rd;16000;16500
+1085;York Rd;16500;17000
+1086;Youngblood Rd;14000;14500
+1087;Youngblood Rd;14500;15000
+1088;Youngblood Rd;15000;15500
+1089;Youngblood Rd;15500;16000

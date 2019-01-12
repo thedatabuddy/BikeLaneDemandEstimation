@@ -30,4 +30,4 @@ for i in range(data.shape[0]):
 
 #print(newdata.head())
 
-newdata.to_excel('minmaxstreets.xlsx')
+newdata.to_csv('minmaxstreets.csv',sep=';')

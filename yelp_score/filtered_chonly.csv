@@ -1,0 +1,596 @@
+,business_id,stars,gc_Number,gc_Street,review_count
+0,jaKf1HVjEEsSMoFvpQdMNQ,3.5,2523.0,S Bv,103
+1,tNxGH0dYx_JinTxnwwjZUA,4.0,2161.0,Hawkins St,196
+2,NFm869_w6cvVaWaNpAzjeA,4.0,1500.0,Central Ave,888
+3,xUgt16DZ-gq67E2C9VbYgQ,3.5,5230.0,S Bv,101
+4,6zi7dAlnk7vgvlGbUMoKkA,3.5,1513.0,Montford Dr,194
+5,E0vZWNBWe-LwdECQFIjnug,3.5,9005.0,J M Keynes Dr,265
+6,ewSh93zoRx0DIWRKU-fFwQ,4.0,511.0,Providence Rd,112
+7,Yc5_nA9NqqxOp8WCugF-Ng,4.0,1405.0,Archdale Dr,159
+8,wkZ6P5fDw0G_iFRU-hzBhQ,4.0,4422.0,Colwick Rd,149
+9,vDZlLRiqIjcMe_h3COKHlg,4.0,510.0,S College St,103
+10,ynvp3qvt3xc321dLKFxpgA,3.0,222.0,E 3rd St,107
+11,#NAME?,4.0,227.0,Southside Dr,112
+12,EvWGuX0eqKcZvLRgtIFHZg,4.0,617.0,S Sharon Amity Rd,292
+13,ahGptHMIRIBXR9wzqZqZwA,2.5,5501.0,Josh Birmingham Pkwy,120
+14,5CtxJzh1dVC6AkWPzGvW2g,4.0,1700.0,Montford Dr,154
+15,n-AQFKbW6MnpamdtA6ECpQ,3.0,8008.0,Providence Rd,215
+16,nGT61YSLYSet9UJHpwAXcg,4.0,911.0,E Morehead St,173
+17,g4rkl-BorzlT1hIz_-vsew,3.0,2100.0,S Bv,102
+18,ME6D5nLlfG0xZCtICOYDuw,4.0,4720.0,Piedmont Row Dr,341
+19,sS2IKdaUne_8QwiAl6iyfg,4.0,8200.0,Providence Rd,111
+20,WOj8nPos3R9IIf0Pyttd8g,4.0,1911.0,Central Ave,137
+21,Z4y3LZlCjv4xnZ8xOpYf_Q,4.0,7832.0,Rea Rd,217
+22,Oy2WnPyiOlPFvPKMIuOC8w,2.5,10215.0,Park Rd,224
+23,vs99Jj_kVyuRtDl7rxXH2Q,4.0,200.0,E Bland St,145
+24,cwCLcQns_SSExsBCzWNQDA,3.5,1537.0,Camden Rd,265
+25,dyJmIqBIpr1JaqrWn7lYCA,4.0,1707.0,Central Ave,114
+26,d8lmIZIqmBC9oPM8y1dc7Q,4.0,2200.0,Rexford Rd,576
+27,RAh9WCQAuocM7hYM5_6tnw,4.0,4300.0,Sharon Rd,1473
+28,USleI8g1UVN9-9jm-b4uIg,4.5,1601.0,E 7th St,353
+29,LQI8R7yYXmWzWKd7wLCf2Q,4.0,1220.0,Thomas Ave,463
+30,osSwv6CJy5hDKQdOKeyTow,3.5,2442.0,Park Rd,523
+31,Tnc-QnFufxhnj32GC90C-Q,4.5,1510.0,W Morehead St,183
+32,#NAME?,4.0,1322.0,Central Ave,221
+33,2232XZ-3ub4S9cmrHJSDFg,4.5,9009.0,J M Keynes Dr,123
+34,Cdk3wRR7TwJb1JW7agPJXw,3.5,1226.0,Central Ave,186
+35,DXCho3TSX6qKsRoEjGoGJg,3.0,8927.0,J M Keynes Dr,128
+36,g-E12y45gBKedax5N20YmQ,4.0,5920.0,South Blvd,213
+37,1_02wXxt7euom-9hWZeReA,3.0,4125.0,Yancey Rd,145
+38,tCSlpwJQ4CZsUEMZeH2SFg,4.0,4705.0,Ashley Park Ln,430
+39,2j78b8m1w4Sr2GVGCzFBtQ,4.0,333.0,W Trade St,164
+40,6c9e9qH_AdBYQnm7dyiDAQ,4.0,2801.0,South Blvd,111
+41,b42EKdSk61zd_FEqEwioYQ,4.0,6902.0,Phillips Place Ct,225
+42,LMZt_-BaxOIAnsoF8l8y1w,3.5,1437.0,South Blvd,134
+43,pzy9xWQqsDxVU6j9MktRJg,3.5,118.0,E Woodlawn Rd,267
+44,DMwU0igEs9K7XuI3utsr6g,2.0,5501.0,Josh Birmingham Py,363
+45,H4E4sZ6PKBef65hU0GKi_g,3.0,215.0,E 4th St,132
+46,NvOdaJ7uIrBuofR8_Q7g2Q,3.5,101.0,N Tryon St,110
+47,apMG3W6-qpHIuo4ApZy3IA,4.0,6401.0,Morrison Bv,287
+48,FGy4UJ1Qri_KruPZiPmWYQ,4.5,12206.0,Copper Way,379
+49,uwpPniaFEVkK5T_PWdQZ0A,3.5,8140.0,Providence Rd,129
+50,EPBEz9ifFo6JqPUUH_BdMg,3.5,1412.0,East Blvd,105
+51,UT22ExffDZjB1tzBDwSWfA,3.5,4940.0,Ashley Park Ln,102
+52,ns7l8kUDyLnrvWRNACZ6uA,4.5,5126.0,Park Rd,118
+53,Ava9H-t4scVmP7u_onh7pg,4.0,110.0,Perrin Pl,207
+54,FKOF8_OMvoPoDHOplDd7tQ,4.0,1101.0,Central Ave,282
+55,dy9VGj4N-sJD1bGse9y9Zw,4.5,10020.0,Monroe Rd,152
+56,9_onoqwv9ZdItxc8OlUKAg,4.0,1601.0,Elizabeth Ave,183
+57,h1SkCP4VoHG6tsA7EXViTA,4.0,15105.0,John J Delaney Dr,155
+58,gG9z6zr_49LocyCTvSFg0w,4.0,622.0,E 28th St,1437
+59,9UU2DPhwmTmkuANzYiZSMQ,3.0,620.0,University Center Bv,200
+60,MTSBA8Mbn1SuPczGnk4F8A,3.5,1516.0,Elizabeth Ave,112
+61,nzaquapFlE_67JIBdxV_ZQ,4.0,4105.0,Rental Car Rd,125
+62,iJpTpE9A8WDWvUlvUcFZuA,3.5,4720.0,Piedmont Row Dr,228
+63,3vkP6t_kKN3JT8MMUaBVEA,4.0,915.0,Charlottetowne Ave,271
+64,56HZLqQOcS1FSXqYG-3vLg,4.5,5000.0,Whitewater Center Pkwy,334
+65,GzAs1oSFEjgnVS5HwrYKTw,4.5,2921.0,N Tryon St,108
+66,Q1L_Nb1QsD0S9pbng5-kMQ,3.0,2127.0,Ayrsley Town Bv,161
+67,8rIDfnWHSo-K0Xb9Y1gjrA,4.0,110.0,S Sharon Amity Rd,246
+68,bzbNGyrTwWHAgg1CqkSgeg,4.0,4625.0,Piedmont Row Dr,596
+69,hggVnGwA5042-ABxqeJX-A,4.5,1701.0,Montford Dr,622
+70,Xrr19fzrUUgTTQBLUd2Gzg,4.0,8508.0,Park Rd,102
+71,1MvR4NJQbHy0i7ME1IoYpw,3.5,4538.0,South Blvd,317
+72,buacGSEw8yLGJo8g-i02wg,4.0,1116.0,Metropolitan Ave,387
+73,KU7eFCdA47v6zeKF3a7j6A,4.0,8038.0,Providence Rd,163
+74,vxadNrpTY7OHNmWsrEpNnA,3.5,4429.0,Central Ave,240
+75,9S7RUjzkdpU4MDxUxkvLvg,2.0,409.0,W W T Harris Bv,114
+76,2R8gyJSYmLTu-UJgNfmpCA,3.5,1009.0,Chancellor Park Dr,103
+77,VeFqptSzekFAc3FZOpi81Q,4.5,401.0,W 9th St,343
+78,bMIVYOyr0pOYHUDNsmSDwg,4.0,2911.0,Griffith St,151
+79,bcTeQtSdHW5pyLjXz05QEg,4.0,2410.0,Park Rd,212
+80,vMyeUHW3QxbXD4_KxmwduA,3.5,2015.0,Ayrsley Town Bv,111
+81,gwd1W_0Mgzqo3QxgXrt16Q,3.5,521.0,Fenton Pl,289
+82,5zjYrtSK1NdVoWNmo96rYA,3.5,9824.0,Rea Rd,122
+83,dPWHFb_sDduzcJdOZSqR5Q,4.0,10809.0,S Tryon St,159
+84,vqG1Z2XpS_PryPsfY0CSng,4.5,201.0,N Tryon St,374
+85,csp7yhSDFkjdEKKGG7n6NA,4.0,317.0,S Church St,201
+86,B1imfnKRvcotaYacPGUrLQ,4.0,1535.0,Elizabeth Ave,180
+87,GxiYMg1OyXN958bN8-7Vhw,5.0,304.0,E Worthington Ave,117
+88,X1za2NGiRInATrNnpRKLyA,4.0,2133.0,Southend Dr,200
+89,a4grXFNKZmZm0ZJXd1PVdQ,3.5,601.0,S College St,193
+90,uz8ISWdE0OSJBjArw4P4Og,3.0,207.0,W Martin Luther King Jr Bv,187
+91,XlOI0qLdQch7YDAs5A011Q,4.0,830.0,Lamar Ave,233
+92,2um9bzTSvD3f2tkdBoA38g,4.0,1608.0,East Blvd,332
+93,bfVpHvjir2G2Z9wVeddw4w,4.0,4150.0,Yancey Rd,410
+94,EMdlJvCTuT_sylNzcElSLg,3.5,6705.0,Phillips Place Ct,133
+95,UpNnjV6p5GVPX6r_itOGUg,4.0,1520.0,S Bv,154
+96,kNwfUukvLd3q38PX0QEDDQ,4.0,1750.0,Camden Rd,105
+97,bcTwvbD5wfMSgSO-YczLYw,4.5,1531.0,Central Ave,192
+98,LcMZCiIxmdhHcRrLghwp2Q,4.0,11308.0,N Community House Rd,109
+99,Daasejc2-RV-MxEKpPjXtA,3.5,1627.0,Montford Dr,136
+100,tIiiq23utFKTs1At2bVD6w,4.0,16646.0,Hawfield Way Dr,243
+101,ThZdaQiCbu8mL8rbLNyrgA,3.5,2135.0,Ayrsley Town Bv,182
+102,Ggh9JwuIwPBiMmx16kAiug,3.5,6601.0,Morrison Bv,146
+103,ALwAlxItASeEs2vYAeLXHA,4.0,1525.0,Camden Rd,858
+104,WlMegJTLkMdo6FO6Vfnq0Q,3.5,5009.0,Beatties Ford Rd,132
+105,6kq9oLduJAYkb2WjAb36KA,4.5,4520.0,N Tryon St,320
+106,5fquJHY2hMX9tPRD5s0t5g,4.0,150.0,N College St,421
+107,kNa3FvRAhM2oKYFoilVDzQ,4.5,2177.0,Hawkins St,178
+108,QeDkfLmXVguytF3Of9zg-Q,3.5,453.0,E 36th St,287
+109,1czIVv2iyOHc3WMgtUWXCQ,4.0,2214.0,Park Rd,101
+110,XSCYYvstSpCVW8wC7rJT7w,3.5,6430.0,W Sugar Creek Rd,111
+111,h5VZ0MqRt4vEUUG8oH6eEA,3.5,7828.0,Rea Rd,128
+112,eQo4kIwIWJbAnfXYl3k5BA,4.0,3124.0,Eastway Dr,148
+113,4vDffQ7eSQ7n39cyroOSKQ,3.5,500.0,W 5th St,393
+114,LPhFORzrfa5_c6o2YXLBUA,2.5,11318.0,N Community House Rd,105
+115,uejutOD4_-IUaY5cKkpezg,4.5,14825.0,Ballantyne Village Way,226
+116,I8DIq321Tkm-wi9z5gTv9A,3.5,324.0,N Tryon St,263
+117,UAU1aSlqgrZwZ847npH37w,3.0,1411.0,S Tryon St,167
+118,DQIZ35zW26988gl4q_fDHA,4.5,1320.0,S,133
+119,7olK8lUgnv5O8PyvN8t_Yg,2.5,8420.0,Rea Rd,114
+120,sdYkVaTy7EJwUkO8Ie_qPg,4.5,1617.0,Elizabeth Ave,824
+121,dztcNrIVDg6D-6sFOOofDA,4.0,220.0,East Blvd,127
+122,CxsN79g8rZoouLwZvr_FVg,4.0,1417.0,E Bv,352
+123,z7NIceJU_4vSk-EJ8H6hQA,3.5,8706.0,Pineville-matthews Rd,119
+124,8hnEVC9ytSfv8y-qQZef5Q,3.0,7415.0,Waverly Walk Ave,118
+125,DyOzNIeXUksPNLXYHnB-oQ,4.5,415.0,Hawthorne Ln,721
+126,csf6o4VOiXk0oZaoyMiCww,4.5,1225.0,Central Ave,120
+127,MTCyh5VqkKp1LIvfeI-TTg,3.5,227.0,N Tryon St,142
+128,ne7lSA6lAOMYYs43kNTtPQ,3.0,224.0,S Church St,338
+129,WPkRg0eaJZFbyXm0uNb1ZA,4.0,6676.0,Carmel Rd,124
+130,cR3gsxxko2vdw9_CclY0Fg,4.5,1801.0,N Tryon St,111
+131,yymNrvk1cioG5Bn5lWH2QQ,2.5,210.0,E Trade St,145
+132,wrs4Zbz17q_G49AIRxRPVw,4.0,5546.0,Albemarle Rd,151
+133,kKCJvvktaKxZ5iFKv3lxuA,3.5,13855.0,Conlan Crk,124
+134,kPfhSK0kcUmOTmC5DEjaDw,4.0,5927.0,South Blvd,223
+135,a1v8QIdbA_HTg_YyNlBY_w,3.5,1730.0,E Woodlawn Rd,158
+136,RAKSBqeNb-p_ZABwAWH_jA,3.5,120.0,N Sharon Amity Rd,111
+137,zMnojW6x-1-nVu0uCd60Ew,3.5,1225.0,The Plz,275
+138,VWMSLDPCvfqjw5DDHShQkA,3.5,2201.0,South Blvd,122
+139,yQab5dxZzgBLTEHCw9V7_w,3.5,5501.0,Josh Birmingham Py,1732
+140,Y7lpoA_lJ1rx3NNqHMgGwA,4.0,1600.0,E Woodlawn Rd,108
+141,kfFRCUP1RXY_jNnBQCOsEw,4.0,6610.0,Fairview Rd,159
+142,LUZ94dZpgCmBGyNH52S7lg,3.5,120.0,E Trade St,341
+143,h8cJUgjj9KxxJoj62fHWRA,3.5,208.0,N Tryon St,193
+144,qWSwDbtJRBvKTiMpH3rNLQ,4.0,613.0,Providence Rd,248
+145,pldfvm-zM2VU5m9a-j9cMQ,4.5,212.0,S Tryon St,305
+146,M0pkmBUi_CI0qrzN7ee80Q,4.0,203.0,E Martin Luther King Jr Bv,472
+147,su6PPlJWHlDv1r_fu4f5ZQ,4.0,1601.0,E Woodlawn Rd,190
+148,mC39IrCp36QIVFRZIw9PTQ,4.0,1400.0,S Church St,711
+149,ZlrHrg7jrbO6blqwfa0MkQ,4.0,4724.0,Sharon Rd,146
+150,GHBLPfbssjupzlhBfCoF3A,4.0,8724.0,Outlets Bv,101
+151,f_R4-FMtQ2Dj6m8LNuse1w,3.0,15205.0,John J Delaney Dr,141
+152,Ku_qQVoMA02kFZiu55_UwA,3.0,107.0,Winona St,123
+153,Abm-1HRGPyevBtnC3Rpxag,3.0,102.0,W 7th St,332
+154,Y3vtXQz3zPc5AVyUAsAj5Q,4.0,440.0,E McCullough Dr,279
+155,Z66xO_B7trDah8F0PKwRqg,4.0,5434.0,New Fashion Way,106
+156,MtSEQlqTj3Pup-wBY-dKfA,3.5,5489.0,Josh Birmingham Py,317
+157,djPTbIprBXGqaV-D8eq77A,2.5,,,233
+158,T2HXUBdJn7Tk2yR1kgD-Rg,4.0,4709.0,Sharon Rd,122
+159,ZLNNXEZaCMhXuUovRTIGTw,4.5,2041.0,S Bv,290
+160,-I27yVw2x_-31_OOMSH02w,4.0,224.0,E 7th St,237
+161,MtvN8vMiKcLkkz_tCvBx3g,3.5,130.0,N Tryon St,331
+162,GrJ74hxJsXXwcqS7zcfFhw,4.0,6000.0,Fairview Rd,144
+163,-5L8zOxibac-vBrsYtxXbQ,3.5,2200.0,Park Rd,116
+164,FBSWwaE6gR7KAOyG1QhakQ,4.0,2935.0,Providence Rd,226
+165,w3PwDEbI0EDx4YI_BkFhIA,4.0,5126.0,Park Rd,192
+166,9dqdzRzjSfbnMvjUGqWBAw,4.0,115.0,E Carson Bv,634
+167,GqfGoFMC3cn_AZI7iUOWKg,3.0,8760.0,J M Keynes Dr,147
+168,_kzB_xsb9DHUPfXB0XfQGA,3.5,7708.0,Rea Rd,250
+169,bXbCGFk3ZjLcTdQQB-xPyQ,4.0,1910.0,S Bv,288
+170,ny8YcGEViSGKWxo69xfiiA,3.5,228.0,West Blvd,268
+171,PkJUpidg_HzdxtdF6wDxeg,3.0,210.0,E Trade St,135
+172,f316rUVOmOM2VidXN2KAvg,4.0,1401.0,E Bv,160
+173,JogUSDKa1xyG3lLEmD4Xjg,4.0,2412.0,Park Rd,242
+174,Wq43-U_iu8ujaaR9aAjIvQ,3.5,9824.0,Rea Rd,102
+175,25YVFgR2pkt3u1f2fDBfnw,3.0,4109.0,S Stream Bv,130
+176,tjAeaGdxf7I4xN9M7wGJNQ,4.0,240.0,E 7th St,253
+177,S3kcGHznDcyzsxkOhSZeLg,3.5,1961.0,E 7th St,151
+178,sJpl9ufYT87UWhtW-5UkmQ,3.5,204.0,E 5th St,154
+179,L8rJht4Jw_BuR8gsckEWYg,3.0,4400.0,Sharon Rd,402
+180,K3iw26MkmSBPAM7BzHkIYQ,4.0,760.0,Governor Morrison St,166
+181,CgCkOG9Z5gCO3fgq-ficpQ,4.0,1921.0,Central Ave,140
+182,vodVvMALuQPScQJpLhfcyg,3.5,1509.0,Central Ave,108
+183,FSB3Jb4t11KkMyEi_7-s6Q,4.0,2511.0,South Blvd,214
+184,J7fekWie4ZwR03AZVBisFw,4.0,7910.0,Forest Pine Dr,182
+185,fzRxHv7XnnDqTmX25tVbJg,2.5,4620.0,Piedmont Row Dr,323
+186,rNoMSO6AsegKb9-p6Ir7SQ,4.0,1218.0,Thomas Ave,150
+187,xJAXkMIgnWNpqyGCosmp2Q,4.5,5100.0,S Bv,220
+188,gOOdzjVxP7Z7bGjsstRjcw,4.0,9605.0,N Tryon St,250
+189,2gCvukOcIHW4ehqpwoNlcA,4.0,5600.0,South Blvd,158
+190,UByM7N0mF-ylIGUuIWHCtA,4.0,1928.0,South Blvd,240
+191,ppT0Rbx0-_W0W8DqY2fPiA,4.0,8170.0,S Tryon St,132
+192,4RL5ydKIIFpU8bevsOKRdA,3.0,210.0,E Trade St,197
+193,3pQ4KSnOX9Y2IEMJvGFxUg,2.0,5245.0,Josh Birmingham Py,182
+194,U8c5AcNhWq1koQwNyzMqkw,4.0,8420.0,Rea Rd,199
+195,8yEFijvcNQ9JIGVWc3EgUw,4.5,719.0,Louise Ave,204
+196,XNboW0mRBApLxIzoXvhHNA,3.5,1714.0,South Blvd,208
+197,ofpuVYCw6VCkybFVIdwYEQ,4.0,2921.0,Providence Rd,224
+198,xkiYAerQQXL25legNhVsSw,4.0,6706.0,Phillips Place Ct,145
+199,rZOzhSA5HP6IdpxuN4v66w,3.5,1300.0,S Bv,168
+200,GIPY7lBIIY8ITSfu63q-YQ,3.5,6911.0,Phillips Place Ct,102
+201,m3XOBJyAJIWEJJUpngVLLw,4.5,913.0,Central Ave,174
+202,LKuzbx5Yt3yqiokUFdjVhg,4.0,808.0,E Arrowood Rd,104
+203,gUrYm7z0g5a5_jdSXzi-HA,4.5,8942.0,J M Keynes Dr,107
+204,XMrLwzmEAsfNpbKRC7vUzQ,3.0,517.0,University Center Blvd,194
+205,749MsdV9v1SijXaLrY23pw,3.5,6903.0,Phillips Place Ct,159
+206,WItlLMrwWUbZhi7aSAzs2Q,3.0,2135.0,Ayrsley Town Bv,225
+207,hcjnOtiW7Bdym3-7PaLUzA,4.0,350.0,E McCullough Dr,351
+208,nMo0ozHO7cqsPaxw_7N6ow,3.0,2920.0,Central Ave,186
+209,Z5BHNFjt7ZmAse2kKlw2uA,4.0,828.0,S Mint St,109
+210,QlIW78umKyE5d0BLpPh1-w,4.0,2107.0,S Bv,143
+211,l_kefVF1frmC0xRW2YkvUA,2.5,210.0,E Trade St,230
+212,tMlVZWa4SsI01qYMRQerKg,4.5,224.0,E 7th St,187
+213,gnKjwL_1w79qoiV3IC_xQQ,4.0,10110.0,Johnston Rd,157
+214,yesClkCZlpLGTYZROkx4SA,4.0,2501.0,Central Ave,413
+215,hhoKM8RdfYo97Y72LqmOgw,3.5,7824.0,Rea Rd,130
+216,kp-FRmyPxjsAoEK1-21rSQ,4.0,9213.0,Baybrook Ln,154
+217,kSIvxL9F9zggPIqPGU-WEA,4.0,440.0,S Church St,116
+218,1Geg7R5ACFL0oassVziNiQ,4.0,1442.0,S Bv,280
+219,zpGCFAt_MydbQN4EsXee6w,4.5,121.0,Ken Hoffman Dr,178
+220,50pDd3dmJCb6m9JxBUq7KA,4.0,217.0,Southside Dr,115
+221,J4WxIqKaKSGNjtxTBPhLBQ,3.5,7520.0,Pineville-matthews Rd,113
+222,EbgUkmDxPUa2fr0rc8EFJQ,3.0,6904.0,Fairview Rd,193
+223,k-drEjxKmfqllwfY90STfA,3.5,4271.0,Park Rd,491
+224,IrHAhdmL9QH9g3NscAIsWA,2.5,120.0,E Trade St,167
+225,s6lTNO57vXsfzyYrPfXOvA,4.0,5615.0,South Blvd,333
+226,G_LtZnL66Iwama_7_FCLUQ,4.0,4515.0,Sharon Rd,281
+227,pDoDY-cDLyeKQgDx5RAlnQ,3.5,12721.0,Albemarle Rd,152
+228,c9SKd0bIR6nNzXOVCbOi_A,3.5,8300.0,Ikea Bv,332
+229,gh6RZ1HvVlZDtjOvrRcF3w,4.0,8933.0,J M Keynes Dr,168
+230,y1eeVRfJa22CCpUCeNfrSw,3.5,210.0,N,518
+231,IzOAFrYWu0Q7bFVQApZRBA,4.0,4202.0,Air Ramp Rd,102
+232,umYyXD1zcTbRHQW4etg0hA,4.0,274.0,S Sharon Amity Rd,109
+233,ebwM2pckHieHvK6h1scuBw,3.5,9311.0,J W Clay Blvd,114
+234,WCqcYtJ4rUxA4bIzjOfzqg,3.5,201.0,S Tryon St,404
+235,08-b4GbZxOzzo9XSJsR-tw,3.5,11324.0,N Community House Rd,173
+236,WxKQSp2_6lQxcng703Hv8g,3.5,1500.0,S Bv,121
+237,yXiDD18UV49-7UhA6dWjAw,4.0,10230.0,Berkeley Place Dr,134
+238,sAXy1yJRLllTm5WrJbJGAA,4.0,4725.0,Piedmont Row Dr,316
+239,24UDZTAMDUaugpkchFk60w,2.5,4423.0,Sharon Rd,218
+240,ADgacmZ-qXrSOhMfU6bmTA,3.5,123.0,W 5th St,593
+241,#NAME?,4.0,3220.0,N Davidson St,139
+242,HzvCskRg2IdWFfBcEY5Ryw,4.5,2723.0,South Blvd,170
+243,sH3UsolKjik01u0HlQ9_0Q,4.0,2917.0,Central Ave,383
+244,zPUjrM223oSulvRRhpkAmQ,4.0,3000.0,S Tryon St,104
+245,FA_D4vDxRyI-hC0SZJnjnA,3.5,210.0,E Trade St,141
+246,lPZ6RQ_jj9xlhvLEB3c4Wg,4.0,8410.0,Rea Rd,140
+247,l-HGrLblZ5HkagtjKqHYXg,4.0,8708.0,J W Clay Blvd,138
+248,L8qXp6Wh5zZt4BzllZPGNQ,4.0,346.0,W Bland St,126
+249,SlQNMsVEOSxN-ciIn93LOw,3.5,8933.0,J M Keynes Dr,101
+250,uGzxwS3Q6QuyFw2ZnDvw0w,4.0,3213.0,N Davidson St,309
+251,sPwh9yiJYeyAN4CBq_tUYg,3.5,12542.0,N Community House Rd,128
+252,gJttMZnv0Gy9OlLhNzPbQQ,3.5,2840.0,Selwyn Ave,260
+253,MGCwVAFyZBzbrX8meNZ4cA,3.0,2031.0,South Blvd,183
+254,kWclF3kJdLYPaoz-pepCDg,4.0,8432.0,Statesville Rd,105
+255,kRhjWeAPs-U5RmakIKz0Pg,4.0,1933.0,South Blvd,150
+256,OuQfFgsJpgWmdCHGegLjXg,3.0,4400.0,Sharon Rd,114
+257,8xTuXU5uZ85WF-ZGqDNv_w,4.0,1616.0,Camden Rd,134
+258,Iyt5sJVjyCvVS2p8Xw0I6A,3.5,722.0,Charlottetowne Ave,178
+259,ZICX0zom1rky89kdOQ-U_g,3.5,6518.0,Fairview Rd,156
+260,0LPVkxZ-Ab9Jx6_ytA-Yew,4.5,440.0,E McCullough Dr,158
+261,jUF7BSWB2s7Xgp5PbISbsg,3.5,9609.0,N Tryon St,105
+262,ZCXjNG1EBFiKKMtR9DOTGg,4.0,230.0,E W T Harris Blvd,298
+263,XlbDdblfNsOGiZ84CorRBQ,3.5,7800.0,Rea Rd,104
+264,lLZMIv_SovV9W6l5ZFSH_A,4.5,16615.0,Lancaster Hy,106
+265,T2tEMLpTeSMxLKpxwFdS3g,4.0,3201.0,N Davidson St,1034
+266,yufkwo_ZszA1QHJwcuyOWQ,4.0,4903.0,Ashley Park Ln,108
+267,DB1kg0GJZXNrFYZqsxeavg,4.0,7945.0,N Tryon St,153
+268,Mbat8t9X0zPrpxd1mEGRcw,3.5,8601.0,University Executive Park Dr,150
+269,o8nauTizH7H_GEAeV6HfMg,3.5,15025.0,Lancaster Hwy,123
+270,yOBDY3fpaTpX4Q5JpmExMg,4.0,7001.0,South Blvd,101
+271,IVbvOKxV9mN1OuZBl-3_rA,3.5,7520.0,S Tryon St,136
+272,a2h9nrVMpNvfwMBo1e8ffg,3.5,820.0,Hamilton St,134
+273,LjOBNcNNpuewBqSPxYYTJQ,3.5,7715.0,Pineville-matthews Rd,206
+274,So52MxrZGy8bPpyDPQP-Lg,4.5,170.0,W Summit Ave,211
+275,uDb1lOfDhl_VLmAbYvp-vQ,4.0,2909.0,N Davidson St,256
+276,01fuY2NNscttoTxOYbuZXw,4.0,1600.0,W Morehead St,920
+277,E3BTs8yFlVbZd20TknY00A,4.0,13830.0,Steele Creek Rd,284
+278,ObcMSGc1uotvpnwydoStIg,4.5,1609.0,Elizabeth Ave,175
+279,KbLI0QELlAwbfDUVwo43DQ,4.0,8036.0,Providence Rd,265
+280,YqjDX0TPge-EB73uzgyS3w,4.0,204.0,W Woodlawn Rd,170
+281,b8fEuQPrf383f6pzdm8-1w,3.5,107.0,S College St,381
+282,3C0bnFhjkgYP9mWORKg6cA,5.0,114.0,S Tryon St,136
+283,zaLFPpm-t89qSDOaFVgwDQ,3.0,5501.0,Josh Birmingham Py,328
+284,HrR_2-HUE6cqnoz1zMN9AQ,4.5,1055.0,Metropolitan Ave,185
+285,5HGQHjavoTgcKHFa-x7r8A,4.0,4201.0,Congress St,182
+286,NIfmK27zNuQbawNwEvpRtg,4.0,2300.0,W Tyvola Rd,123
+287,fnxKfHf-ANBph4EqVARvQQ,4.5,1133.0,Metropolitan Ave,165
+288,HmAQq1Wbz2oAFX-KqTAM_A,1.5,5501.0,Josh Birmingham Py,310
+289,lBf_TcBWS7XF-TA4qT8MgQ,4.0,14142.0,Rivergate Py,125
+290,3b14ebd1k9y7VJbp5hC0gg,4.0,5501.0,Josh Birmingham Py,262
+291,bQPMEI9yMakI4GD2jVS9jw,4.0,11331.0,Costigan Ln,183
+292,sPwgafejYVdf8hd4-oDYVg,4.0,10403.0,Park Rd,219
+293,jXHmmircEbhQmZjWDR1xIA,4.0,1322.0,Central Ave,460
+294,MtzjOi57BkQrqF8wqNOyHg,4.0,2908.0,Oak Lake Blvd,326
+295,b6qKEYhc5cji_i04PjF6ww,3.0,8205.0,University City Blvd,126
+296,#NAME?,3.0,8128.0,Providence Rd,117
+297,nZDmR6dJYgeG9dAaUMlSbw,4.5,1441.0,Winnifred St,181
+298,QFqtVX-lyZQgVHQrG-dhlg,3.5,1901.0,Commonwealth Ave,341
+299,NMw6zTXoZDEzNchVIfL1pQ,3.5,8943.0,S Tryon St,109
+300,31acLzszeCCpeXmyAnoTdg,4.0,715.0,Providence Rd,135
+301,rPqXbho0dwETvjUxW88Ttw,3.5,9636.0,Monroe Rd,132
+302,EzUZU_y0ooTGbboxFck1Pg,2.5,1801.0,South Blvd,104
+303,yuwmVUmsFVawe4zxnWZfNg,4.0,7629.0,Pineville-matthews Rd,118
+304,PqcOSnCsJTT9Yd2xWKIMWw,4.5,3115.0,N Sharon Amity Rd,264
+305,WPV0ucYjnb2HOrNxSopv6A,4.0,1701.0,E 7th St,177
+306,RbMo9QIPDWP7nAAolS7IFA,3.5,366.0,N Caswell Rd,108
+307,eZDXz_RylvdD0tHEA8I0NA,4.0,1717.0,Sardis Rd N,437
+308,4X9tVVQHIewliXqaancfQA,2.5,5475.0,Josh Birmingham Py,138
+309,jNQnscvgn_dMTS954qW_9Q,3.0,1318.0,W Morehead St,112
+310,UFVy-8WC7pDzvBUzOvdwzA,3.0,1523.0,Elizabeth Ave,139
+311,OMEbwr0Aybw_wnqvno-6zQ,3.0,7314.0,Waverly Walk Ave,123
+312,FrfzI901uS2bU2kgUkqaVw,4.0,7804.0,Rea Rd,144
+313,yY2fvUV7g5yAHIKcUfJqIA,2.0,,,120
+314,PHhZy5zYULNF-oz-2Jz9KA,3.0,14835.0,Ballantyne Village Way,214
+315,JsUytp_MuZ4AX5JWfi2eLw,3.5,900.0,Metropolitan Ave,113
+316,SThmy10YhS13oFgT990Xhw,4.0,9604.0,Longstone Ln,163
+317,bZtukyhyV1oVmUU3yRBPbQ,4.5,3232.0,N Davidson St,387
+318,Vu8Z-zbNT_InsKm4IrdeCg,3.5,4400.0,Randolph Rd,101
+319,biCO6zc-opMp-uJ6rkTENA,3.5,1610.0,E Woodlawn Rd,160
+320,mQCT1psNh2pJT38ohSQDHA,3.5,10920.0,Winds Crossing Dr,114
+321,Wuo8bVfUscGkJaWSSyNGlA,4.5,4203.0,Park Rd,206
+322,IqH-J1D0HIP9wyJs2q_uGQ,3.0,1600.0,E Woodlawn Rd,126
+323,8T5JnB9qL5y8RaCHH5zKSQ,3.5,3001.0,E Independence Bv,303
+324,jZUizCQ4nRmyovBeuUniGQ,3.5,15719.0,John J Delaney Dr,175
+325,R1jJQi2yR44D_2ileqr8kA,4.5,2010.0,S Bv,382
+326,jslGoWrJQtpC1UgEve0YgA,3.5,1205.0,Thomas Ave,109
+327,AuIiqDeL65kczmiFSkAWrA,3.5,4400.0,Sharon Rd,313
+328,x6n14NifL1K1-kimB83GVA,4.5,3609.0,S Bv,142
+329,s8OLoPfOpB0FbK5frI3CkQ,3.0,1212.0,Pecan Ave,459
+330,v4HpZFOU3mvIeuHLRSIi7g,4.0,12542.0,N Community House Rd,206
+331,A7-RwaxEEonk7vvhHrJr_g,4.5,1016.0,N Davidson St,102
+332,1bXC3NewRsBL1gecvGXA-g,3.5,1801.0,Commonwealth Ave,153
+333,2S6p5ICNswz_EdgcZk76qQ,4.0,1505.0,Montford Dr,315
+334,aqszoKRB4Ol9bpemt0_-GQ,3.5,214.0,N Tryon St,138
+335,v5kZsm1p6N2N3fwtxm3FHg,4.0,5110.0,Park Rd,104
+336,64gtZKZL3gA_CO2zJwvSog,1.5,5501.0,Josh Birmingham Py,171
+337,LpAdf_z1A9REhTQjr1B4cA,3.5,4335.0,Barclay Downs Dr,141
+338,rLyJUCwMM1POt7RnFnSASg,4.0,100.0,W Trade St,142
+339,OYB1niC3P2qP8Jf0bigB7A,3.5,2109.0,S Bv,102
+340,TxQBdyDktZSk1KVTWh71dw,4.0,1511.0,East Blvd,283
+341,npWIa3dIPEV1MTaZNq6AUA,4.0,7716.0,Rea Rd,284
+342,U3kygJOTlTQFlfaZS7sQjA,4.0,1524.0,East Blvd,363
+343,foD6m1lhxAAfNEHdUbBpOA,4.5,1542.0,Lilac Rd,146
+344,TLWZK8NIpn4zI4_yut-q6Q,4.5,2102.0,S Bv,286
+345,ZMEax9auuGMUPqxl2D3kLA,4.0,9510.0,University City Blvd,270
+346,SzlzAjBwFcdbOwRPjNxaxw,4.0,12239.0,N Community House Rd,180
+347,6HMwB2wCKezd7aKzQd5asA,3.0,8662.0,J W Clay Blvd,121
+348,c24ZZshnU3sKqHQF8K_7Yg,4.0,417.0,S Tryon St,127
+349,6lovZEiwWcRYRhyKd94DRg,3.5,7804.0,Rea Rd,170
+350,99j5vhhtFJIefXDLsmA29Q,4.5,10620.0,Providence Rd,302
+351,iAD5r5vNOzc1AP6UA5yFiQ,4.0,8200.0,Providence Rd,131
+352,iYT30UPGmLdmTRaAKz0Vvw,4.5,11312.0,N Community House Rd,165
+353,1FlIbmN4aNJuXsGK0shnfQ,3.5,704.0,S Sharon Amity Rd,289
+354,qVVjbYR0LIfJuIIzgPMTuw,4.0,6801.0,Northlake Mall Dr,181
+355,c-l4nDPZcEwapEiV-Xf08w,4.0,11508.0,Providence Rd,231
+356,J3_FTjy9LAtTtoW_cLwPxg,4.0,4201.0,Park Rd,300
+357,h6f3QbR0n0fpS2Tu9MJJTw,4.0,8314.0,Pineville-matthews Rd,316
+358,Nk2gNrMDZa9_7gmT3W-zjQ,3.5,2025.0,E Arbors Dr,104
+359,aO1gAp41n8w8zpxTiHdLNA,3.5,214.0,N College St,840
+360,mOMeDQB8NjdBTTzKtikAYg,4.0,1601.0,Montford Dr,287
+361,jYqOPpSmtKbKzf0Z_g-Oyg,3.5,7930.0,Rea Rd,233
+362,fepCIbejv-Kxs6SE6u-_uA,4.0,227.0,W Trade St,117
+363,SUqac8vBnv2nWAJzSx0r1g,4.0,435.0,E Trade St,133
+364,QnCBkwWiu19YPNnSDyF6eA,4.0,7323.0,E Independence Bv,139
+365,aIJqDWUt10iS45zYCr0KcQ,3.5,324.0,East Blvd,266
+366,AAekuF59Qr84gAh18o9njg,4.0,1404.0,W Morehead St,169
+367,_PcRyvbZmVQvlS5uORDGVA,3.5,203.0,E 4th St,205
+368,nEQFnHydeX2A3bRRDAKqQg,3.5,4310.0,Sharon Rd,210
+369,CSamwh_y3gOSg0Z7tyfJpw,3.5,1231.0,E Bv,156
+370,NMO1hExBvamoZ9RKEVNcYg,3.0,200.0,S Tryon St,221
+371,yMopev-RPxfEXgqkJOvCGA,4.0,1800.0,E 7th St,642
+372,cy3Or8iSsDOmHBBu2MwnOg,3.5,6401.0,Morrison Bv,110
+373,FB2iUwS4-LMLBQVyLZmZfQ,3.0,15111.0,John J Delaney Dr,145
+374,ibWJKyFwzm3K2UHSlc8EGA,2.5,1100.0,Metropolitan Ave,101
+375,0DaSqjKtm8JJEv2nmL4cgw,3.0,5501.0,Josh Birmingham Py,120
+376,K5sUVFSGFEZosixSXgx5sw,3.5,1605.0,E Woodlawn Rd,123
+377,D-RQsQjEVI_w-KC7iDJd5Q,4.0,1411.0,Elizabeth Ave,157
+378,Z072pEHdos2Gjj3nMdR6uA,4.5,208.0,N Tryon St,173
+379,NOdSt1Ku8s272TIT9TNzgA,2.0,3425.0,David Cox Rd,102
+380,3ma_7W3vZSD2fd6EosN3yQ,3.5,2006.0,S Bv,168
+381,7mgNBuU68N5fzdG3JxN1XQ,4.0,3130.0,Driwood Ct,149
+382,8_9384WM1gO0YP1MjLqOqQ,3.5,128.0,Brevard Ct,115
+383,H9a6IRS0edhW343Y2kXSSA,3.5,1812.0,S Bv,384
+384,bc3qgRXb8mln0CGgUCTdug,4.0,1535.0,Elizabeth Ave,112
+385,YpLGfYXBqMhPDxjuq1GZuQ,4.5,2229.0,N Davidson St,162
+386,F1odkZWmcXGylij8HjRq6Q,4.5,,I 277,336
+387,x0Ec6gz07SBnWrBOQLisiA,4.0,4125.0,Park Rd,256
+388,HDv-KchmLSlRr5MXxRkNqQ,3.5,401.0,Providence Rd,176
+389,22MYhTXwSXaS4rW2VOrR-w,4.5,5033.0,South Blvd,440
+390,PdCxX1QJnlBkvnG9fFjWYg,4.0,2001.0,E 7th St,248
+391,IDIjbLpatjS3gSnliPxtoA,4.5,217.0,Southside Dr,160
+392,Rjkda__H64ILwIvaccVyLg,4.0,100.0,West Blvd,230
+393,1_jvFRQjcRVfd9LdOLvI8A,3.5,204.0,N Tryon St,287
+394,ZdqiRrUik1GWAcMWb2iBdw,4.0,100.0,W Trade St,116
+395,sEeV71wQBgNM8ipdfHszkw,4.0,4245.0,Park Rd,196
+396,yBmDNVdEzW1ARUXYlKACIw,4.5,2001.0,Cleveland Ave,120
+397,WLCdg4ib7-_7b8epoXRjAw,3.0,2001.0,E 7th St,124
+398,TZmMsbw5TbRqv8rmKj_aGg,4.5,2007.0,Commonwealth Ave,223
+399,trodK1jXLGIn5qjJCooIpQ,4.0,6601.0,Morrison Bv,297
+400,NvyjzqSF55Ghe3GrIIYEcw,3.5,1801.0,Scott Ave,110
+401,ZGaW5a7wxXxUgGTtbFqNxg,4.0,5011.0,S Bv,199
+402,rS39YnrhoXmPqHLzCBjeqw,3.0,200.0,E Bland St,171
+403,SHFlELFcEcAOJv_fTAKChQ,4.0,118.0,W 5th St,573
+404,WvC9K0ZEOTbR7fh-LNe5_A,3.5,2400.0,Park Rd,300
+405,sH9aI3xg-POBMp8R-kSQZg,3.5,8128.0,Providence Rd,118
+406,ie8F4cL15JQi8cZVY78xRA,3.0,527.0,S,129
+407,VwvIq1dyWje3j1i7lp-8sA,3.5,3544.0,Sharon Rd,155
+408,a0Jm-rlHOKk_1fm4hzxskg,4.0,10719.0,Kettering Dr,157
+409,Ac52FTELfKifOWT4WOafpQ,3.5,206.0,N College St,202
+410,jcasci3gjbsSuTEVzvDQKg,4.0,616.0,Cherry St,446
+411,0GS6_96ld7mdEfgKhoDliA,3.0,1518.0,Montford Dr,144
+412,E0HOsxXZ_o6ocemK57BoWA,3.5,11126.0,S Tryon St,283
+413,yvNYymtQ_IOUowEb63c5hw,3.0,521.0,N College St,174
+414,3PsmvwxetLz1Tzb-6mNhgA,3.0,10325.0,Perimeter Py,203
+415,80omysuPKac8zn1PfRnQRQ,4.0,8470.0,Bellhaven Bv,227
+416,kzdbkojvhf49MGyheAncOw,4.0,5002.0,Elizabeth Rd,128
+417,bpK5y21d-i74v-1ID2uAGQ,3.5,121.0,W 6th St,103
+418,R2gNwPARX31w68wjhuJ0zw,3.5,1100.0,Metropolitan Ave,126
+419,ZirBQMRrUeLd_wX_LaEHOw,4.5,445.0,W Trade St,106
+420,bgvm73MMjC2f5qo_RgXOXg,4.0,121.0,Levine Avenue Of The Arts,266
+421,HwV2hQr7fbpiG8wODWJQ1w,4.0,7340.0,Smith Corners Bv,148
+422,dk7VpR5Xh7t28U99ASZz7A,3.5,500.0,S College St,132
+423,Un0QXKDscxlI_yi3u14ALA,3.5,5501.0,Josh Birmingham Pkwy,181
+424,l3jXlEDlVfKj_ECpU7tobA,3.5,601.0,S Cedar St,225
+425,MrSHPvHVdE_VzVN7iRz45Q,3.5,210.0,E Trade St,319
+426,FTKxYJj7d5u3GiEHG5cQSQ,2.0,400.0,E Martin Luther King Jr Bv,160
+427,FA-FJyVkMsgsLsoQWe4QFg,4.5,1500.0,E 3rd St,113
+428,WdBWhGe4Siqg3IYTc4_K4A,3.0,8650.0,University City Blvd,109
+429,QCUjHPu7OF_bqfjnehlQaQ,3.5,2839.0,Selwyn Ave,175
+430,yWUBX9Pe6pzh1PjVj04UmQ,4.0,1626.0,E Bv,470
+431,MYnD-mEnOXNqrfIT2GeZqA,3.5,210.0,E Trade St,168
+432,vBNM4NEBuO66Hk5yO797eA,4.0,2718.0,Monroe Rd,207
+433,rb4d1_OtpVD91J5NDp4Y3w,4.0,2000.0,S Bv,223
+434,yf6lJ_zhJwawObRMS1OKdg,4.0,1721.0,N Davidson St,141
+435,GphWJgfK5nrLuBdOljrqKw,3.5,221.0,E Martin Luther King Jr Bv,134
+436,gChmBjLSe3qa8rzEngoDLQ,3.0,222.0,S Caldwell St,601
+437,ghKN6NeyIBn9xxS0fO7SQQ,3.5,2900.0,Wilkinson Bv,139
+438,I6Xa5eF9Jv9VM6ms_dkY8A,4.0,8400.0,Park Rd,228
+439,VvXI3pyUFl1MAimZsX5RrA,3.5,16721.0,Orchard Stone Rn,119
+440,UzsXZoePcmt6RWo00qNNAw,3.0,201.0,S,325
+441,hVLFDDA31wYm3Jjz3w74GA,3.5,14015.0,Conlan Crk,240
+442,ICUCAzUZFiWkYs7iCtNCQg,4.0,311.0,East Blvd,343
+443,QvxBnMcBPP1z_NAIYCqqdA,4.5,3106.0,N Davidson St,520
+444,n-K5Mp3DraFcclNXyTdMvQ,4.5,1941.0,E 7th St,118
+445,qC9ivAdl47BcZdlbW7ffLg,3.0,9935.0,Rea Rd,114
+446,the19uDwR-41n8x861F7Hg,4.0,1716.0,Kenilworth Ave,186
+447,80TTAvMtRsPPFtFFnXgskA,3.5,11324.0,N Community House Rd,136
+448,Ch7NAhB_MWSDwcNbcptEKg,4.0,327.0,S Tryon St,438
+449,fqMAnoS2sTokz6lqBSmoCw,3.0,2433.0,S Bv,303
+450,aZG9Hp8fdgzq37iuB1QTYg,3.5,14401.0,Carowinds Bv,338
+451,9h2W6JBWILS_RwlpIBSEig,4.5,5346.0,Docia Crossing Rd,147
+452,VH3WA7a-OVzFj2K_SP4BIw,4.0,141.0,W Trade St,511
+453,LIvXzdMJrIb6IY5Y3tqicA,3.5,1714.0,South Blvd,296
+454,_5UAFrD3EDgJO1aZgRxH7w,4.0,1614.0,Camden Rd,361
+455,c4KXpCou6HBOgfKp2z2_hw,3.5,14815.0,Ballantyne Village Way,354
+456,RcB7STNxoSDjtoK1pXgWBg,4.0,14815.0,Ballantyne Village Way,302
+457,u2NsBZp8Se_65rs6ydI0NQ,3.5,6654.0,Carmel Rd,127
+458,gGt00WW8sNY2Sop7jYa7Tw,4.0,1301.0,East Blvd,363
+459,MQEpDvkdL39hh1N0We3Vaw,2.5,205.0,E Bland St,376
+460,eAZqT24e0Pk8apWzy3RsAQ,4.0,4630.0,Old Pineville Rd,519
+461,10tJuB_YkVQWuk4PtoI7iA,4.0,1427.0,E 10th St,268
+462,WnLhd38sH80ViWwzyF7yoA,4.0,1600.0,E Woodlawn Rd,159
+463,QH2OSulslnQ7Yn8Xs81SPg,4.0,3120.0,N Davidson St,211
+464,cMHgw40ldvUBxTYNeZjHQg,2.5,5475.0,Josh Birmingham Py,172
+465,XgRljuEUyaHBKIpIz-PRAA,4.5,2001.0,E 7th St,544
+466,NcyEhCGBmPxyNROy0mLsFQ,3.5,107.0,N,205
+467,pWLt6ID1HiMOp9QLNeuvIQ,4.0,4223.0,Providence Rd,143
+468,AHosGBveeXx9YjsQvdJgeg,4.0,201.0,S,124
+469,Csa0t9l6CvM2oeZLgFC6Iw,3.5,8500.0,Pineville-matthews Rd,101
+470,hUu5im-iTpOvRHtqiuu_dg,3.5,5501.0,Josh Birmingham Py,214
+471,tbeyonV9fwKRf1jFZ4dfqw,4.5,400.0,E Martin Luther King Jr Bv,150
+472,R_epGBO7Cr1M0Ftc0JKV7w,3.5,15023.0,Santa Lucia Dr,118
+473,V_VQ9BgbLEzL9mPLQQlc6g,3.5,1101.0,Central Ave,103
+474,wiEQrYSNofc10q7Pm26b0w,4.5,1515.0,S Tryon St,186
+475,yIxP32hWfZm5gyYUUh2WBA,3.5,1823.0,Cleveland Ave,139
+476,Uftnd7njdHNFxhz_6rpUrA,4.0,117.0,E 5th St,341
+477,#NAME?,4.0,1408.0,E Bv,333
+478,IGxxnH4Q2S2y_ZdFFW469w,4.5,2900.0,Griffith St,148
+479,QalBgQ2z_Fc83xFGG6CgLg,4.5,201.0,E Trade St,125
+480,TJwMIZiGB2FA5bJvn444EA,4.0,200.0,N Tryon St,204
+481,f12Zv1B9crmSW58iyTR_mA,4.0,12410.0,Johnston Rd,271
+482,H-PmFfqAzQtWTS0XeWC_lw,4.5,9816.0,Rea Rd,188
+483,1WtUgLhdBdQ39aBvEUbsnw,3.5,1308.0,The Plz,233
+484,tInrGCzll4k9hF34Ye1rvQ,4.0,139.0,S Tryon St,424
+485,9BBWtaSvsootDkKTVBgv_A,3.0,2305.0,Westinghouse Bv,103
+486,QjL_QaEJGRfyBS2-wuowGA,4.0,230.0,S Tryon St,105
+487,NbrXg59fYR3MoeXdeAIQIQ,3.5,1930.0,Camden Rd,286
+488,D2ojX9bvE0_-aIj9BhdZZA,4.0,300.0,East Blvd,607
+489,rqjhez-ulSyMkr7lMGJwFA,3.0,165.0,E Martin Luther King Jr Bv,190
+490,qg0NWVUNFUG7fiviqzBZbg,3.0,3415.0,Toringdon Way,123
+491,WAmCIDi3qn2VI7OUqZfjYQ,3.5,3221.0,N Davidson St,133
+492,YCq8VGDRHO3JkiyUzQbyIw,3.5,14027.0,Conlan Cir,149
+493,DjNdyATYYyHexZuUy54g2A,2.5,16715.0,Orchard Stone Rn,120
+494,aBLx9JlAMq_AuW6VAImSwg,3.5,1601.0,Central Ave,561
+495,NwktF1sJ92KOQ434geNRoQ,3.5,120.0,W Trade St,113
+496,HtObLsspK0xIXfNPb7eUmA,3.0,14126.0,Rivergate Py,131
+497,YxwxKqemcKwV4vIQXhVv_w,4.5,141.0,Brevard Ct,192
+498,796J51vX9eu6BONfDBQMzw,3.5,13735.0,Conlan Crk,196
+499,QAHqplESgDUGgih45W9J-g,4.5,1116.0,Metropolitan Ave,310
+500,iiuXldyDVwgtmFwo_pxSAg,2.5,2132.0,Ayrsley Town Blvd,144
+501,ZX9eujPNUxqWEWYdr4Ulqg,4.0,1531.0,E Bv,146
+502,GmSomk7UiPR64MFUs0rp2Q,3.0,210.0,E Trade St,109
+503,WbJ1LRQdOuYYlRLyTkuuxw,4.0,1820.0,S Bv,1294
+504,ES0ijQ-KlNPUoXl4tK1tDQ,4.0,4400.0,Sharon Rd,199
+505,JM9GL7hbCqwsJdRGw-ef4g,3.0,3920.0,Sharon Rd,120
+506,RMzjD_LpED02tGGafX0RBw,4.0,11212.0,Providence Rd W,132
+507,3Ui-76sC9_fNs2gu8ISAMw,3.5,215.0,E 6th St,133
+508,n_rEQNgsCOLNfMzGqFhn1g,3.5,6666.0,Carmel Rd,127
+509,Cbr_THdFrhePgJoqQ9X6gQ,4.5,3000.0,Central Ave,200
+510,YXa0A7aXV9wWNR0qJVVSDg,4.0,15111.0,John J Delaney Dr,317
+511,aE-02jgBVhV56x0kbfvSIA,4.5,720.0,Governor Morrison St,352
+512,boug058JCnbFkQp-K_fXQA,4.0,222.0,S Tryon St,167
+513,NwWYSYGHFyHQMmsXu0SiYA,3.0,1510.0,W Morehead St,169
+514,SXgVJz5aIvbeCXWvg0ZuNg,3.5,1600.0,Central Ave,143
+515,74Ev0iqPnrmh4i7Wj4PMOw,4.0,7822.0,Fairview Rd,101
+516,viuM2vdATRCxI-wqlBHytA,3.5,,I 485,206
+517,lwKOu5qHzCieui87LGrdRg,4.5,4215.0,Stuart Andrew Blvd,144
+518,1j-DEipQoZHlj2UYSaoGWQ,4.5,2903.0,Central Ave,123
+519,wJnhUJCOYkncLPZAwaMffA,4.0,112.0,S Tryon St,245
+520,V1cWGBZLQLyIiyo0iUOnyg,4.5,240.0,E 7th St,447
+521,hSKL-eAU_9rEyA3qmm8l-Q,4.0,8706.0,Pineville-matthews Rd,169
+522,6hZgMg9rnDCC0RBVRlkZwQ,4.0,8342.0,Pineville-matthews Rd,324
+523,YOy1tOiMMOkrCQ4mO2i3eQ,4.5,8332.0,Pineville-matthews Rd,337
+524,SEEy7DKuVbgw4Rai2BqEEQ,4.5,8316.0,Pineville-matthews Rd,125
+525,o2O4qWlo4O0aI5oEZsUHBQ,3.5,14815.0,Ballantyne Village Way,144
+526,ZxpPgeTiRCPOWMuKeqMsbA,4.0,2824.0,N Davidson St,104
+527,uOWWk2duBzNao8fiQFWkJQ,3.5,6420.0,Carmel Rd,118
+528,gblFg_GOg8OTPEO2sbCHhg,1.5,105.0,S Tryon St,115
+529,AY4qBdRtkShnjiPTdlxw_A,3.5,16637.0,Lancaster Hy,325
+530,IE0QRqaUSW51RmShZ9dX1Q,4.5,521.0,W 6th St,153
+531,XagMSw5tADQbNSx0IM7TaA,4.5,330.0,E Bv,195
+532,M10n-ivjDkkdLaxIYNafFQ,3.5,281.0,E 6th St,326
+533,Xg7Gt8vlSPxSypDQQSVsAA,3.5,1820.0,Sardis Rd N,146
+534,E0TK141YMBP0LBknhVKEqw,4.0,3116.0,N Davidson St,349
+535,c6-5RCj8FtV-m1aHz4wnmQ,4.0,5221.0,South Blvd,205
+536,8nmjvYX4N67cxOsGfbEgjg,2.5,210.0,E Trade St,407
+537,YzMUZjUMcgI-NSGu48-nIQ,3.5,1710.0,Kenilworth Ave,157
+538,zFnPRtP7LGvr3sfxvy_dfg,3.5,3228.0,N Davidson St,223
+539,38OrCpBBQG-dzhxfXrFQWQ,4.0,4009.0,South Blvd,153
+540,H9NhLNwB9diQtZbi8K4GQw,3.5,2130.0,E Arbors Dr,135
+541,BToSTEiaK94G3h5_XROEcA,4.0,1923.0,Westinghouse Bv,139
+542,RVQE2Z2uky4c0-njFQO66g,4.5,1401.0,Central Ave,1370
+543,KEGLWeFAWXvo0W2LnujhtQ,4.5,3019.0,Shamrock Dr,320
+544,Fxgvku1h-G2UnNMdFBhWbw,3.5,4540.0,S Bv,104
+545,sVoeqb0-JCf82n4z9cUJLA,3.5,1412.0,East Blvd,105
+546,YAJzBGvqT3dT_qAg6u8E1A,4.5,1524.0,East Blvd,349
+547,1hfYBwAI7pFz50l5n4JpqQ,4.5,1200.0,E 36th St,134
+548,0D6NKcLzVfQ3RcEPySmzDw,3.5,12806.0,S Tryon St,118
+549,byX9dKMcLA1CDdf3UeHDFg,4.0,237.0,N Tryon St,212
+550,EyPDvFnc8Jh1kAZZMHoApQ,4.5,14318.0,Rivergate View Dr,112
+551,wDfz8ap9xWzj46mtNDcT9A,4.0,4398.0,S I - 85 Svc Rd,271
+552,o_73vrhXGy07nUWxn5q58A,3.5,9711.0,Northlake Centre Py,133
+553,IIUK1lz_1upqYtHu8ZuClA,4.5,704.0,W Trade St,198
+554,Qsg-2Coum0ccbXuJWDwZqA,4.5,4901.0,Ashley Park Ln,262
+555,vMKQaR8bI2saI7rz8H5MYg,4.0,3205.0,N Davidson St,183
+556,5q6Xh-UcJa78bp6dzyaE7w,4.5,1710.0,Kenilworth Ave,416
+557,JQ4E1Im1dHMpDa1s4vJMoQ,3.5,7128.0,Albemarle Rd,198
+558,wArcCMVnrl_tc9MULW-0CQ,3.5,2909.0,N Davidson St,559
+559,4O5YJJz4Tq51UcrTLT-7sw,4.0,1531.0,E Bv,137
+560,4cWrtMvfj-tomyEPgP7KFg,4.5,901.0,S Kings Dr,130
+561,o5QDrg_kb4hgsWxV6cV_Uw,4.0,4247.0,Park Rd,545
+562,ZCsvwa_dsqNB8d8tYHPdjw,3.5,4151.0,Park Rd,150
+563,nmOJhPW62nCiuXHJuWooIg,3.5,333.0,E Trade St,153
+564,uZLt76BL4_4A-T6501ugnQ,4.5,2215.0,Ayrsley Town Blvd,103
+565,3CG7oBD_k85M8jJ_JlhL-A,3.0,1205.0,Thomas Ave,292
+566,iyFS4twFjCKfaKl7kUl3sg,4.0,2127.0,Ayrsley Town Bv,253
+567,8PaRm2RznnwWaouI5Dj1AQ,3.0,6801.0,Northlake Mall Dr,103
+568,n5wZxYrle8ROuK-Saq-yyw,4.0,1724.0,Abbey Pl,103
+569,6Pbrq60mA56WQU7SENbG0g,4.5,11835.0,Bridgehampton Club Dr,130
+570,1NmGVWYlF4iMngM6arKJTQ,4.0,7211.0,E Independence Blvd,104
+571,CrPm7Rby304RmpFgmIBdUQ,4.0,1807.0,Montford Dr,115
+572,YURN6bVsqRfPElrMlef4nQ,4.5,3123.0,N Davidson St,140
+573,QReGruZEFxovIm9FJVa1kw,4.0,116.0,Middleton Dr,116
+574,_a8vCw5cxt1vhN-HbgNGuw,3.5,512.0,Brandywine Rd,229
+575,nPJqwNZWIxHd-vfE-E3XQQ,3.5,3607.0,Whitehall Park Dr,121
+576,QEgfK_TKY8bwK-YzKDdkGw,4.5,1037.0,Providence Rd,140
+577,e9sB72njxz87r5TL6kG-Fw,4.0,116.0,W 5th St,488
+578,t8V_P7ZzRrhDQoqeoGVahQ,4.5,324.0,N Tryon St,391
+579,ApAzthiFRKuL-yJo1HMFvQ,3.5,911.0,E Morehead St,188
+580,BJwBqOe8poLbpaC3gyj6yQ,2.5,500.0,S College St,108
+581,avTIDv9lJHiNcg3mcwTxqg,4.0,10701.0,McMullen Creek Py,107
+582,NI3xvN6p0qhvUkKirbKokA,4.0,4736.0,Sharon Rd,223
+583,SgmcmNsJQ8IQ6balS_kotw,4.5,4500.0,Park Rd,116
+584,ExtP8z3SVyut_RICc9i_DA,4.5,3419.0,Toringdon Way,227
+585,bm_PGQMGMjylitqkNIEzTw,3.5,1148.0,Metropolitan Ave,415
+586,eCeFBHucdjbZkJlry8EALw,4.5,521.0,W 6th St,135
+587,Db3CfZWrtG33UZSs8Tdlsg,4.0,11112.0,S Tryon St,119
+588,RNO7SRmfVi0CyXjtPhXELg,3.5,2820.0,Selwyn Ave,172
+589,#NAME?,4.0,915.0,Hamilton St,164
+590,LpyndkMvevIQA-JHoReHNw,3.5,5901.0,South Blvd,138
+591,_2trMwFsh5-IqqEcQ-OLVA,3.5,2414.0,Sandy Porter Rd,270
+592,ZBHXfX3vK-ck52UBEofV2w,3.5,2801.0,Selwyn Ave,101
+593,kG0N5urz2lkPEBDPjqFR3w,3.0,901.0,S Kings Dr,146
+594,ATMiPNPxN-g1ra7nar5prA,3.5,202.0,S College St,232

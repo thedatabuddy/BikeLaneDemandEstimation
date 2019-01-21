@@ -38,6 +38,7 @@ newdata['point_score']=0
 for filename in filenames:
     newdata['point_score']=newdata['point_score']+newdata[filename]
 print(newdata.head())
-writer=pd.ExcelWriter('valuesfile.xlsx')
-newdata.to_excel(writer)
-writer.save()
+# writer=pd.ExcelWriter('valuesfile.xlsx')
+# newdata.to_excel(writer)
+# writer.save()
+newdata.to_csv('valuesfile.csv')

@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="863bdf29-605f-4b4f-8d54-675986f7b0fa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ml_algorithm/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scoresgeneration/score_normalization.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roadsplit/output_geocodioupdated.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/roadsplit/output_geocodioupdated.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scoresgeneration/calc_segmentscore.csv" beforeDir="false" afterPath="$PROJECT_DIR$/scoresgeneration/calc_segmentscore.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scoresgeneration/roadsegment_score.py" beforeDir="false" afterPath="$PROJECT_DIR$/scoresgeneration/roadsegment_score.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +19,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/roadsplit/minmaxstreetnumber.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
+            <state relative-caret-position="270">
               <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
@@ -25,20 +28,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scoresgeneration/roadsegment_score.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="32" column="39" lean-forward="true" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+            <state relative-caret-position="391">
+              <caret line="37" column="29" lean-forward="true" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yelp_score/filteredchonly.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scoresgeneration/score_normalization.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+            <state relative-caret-position="288">
+              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -49,8 +52,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Anaconda3/envs/Thesis/Lib/site-packages/tabulate.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17154">
-              <caret line="958" column="56" selection-start-line="958" selection-start-column="39" selection-end-line="958" selection-end-column="56" />
+            <state relative-caret-position="125">
+              <caret line="958" column="4" selection-start-line="958" selection-start-column="4" selection-end-line="958" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -94,14 +97,16 @@
         <option value="$PROJECT_DIR$/geocodio_yelpop/categories" />
         <option value="$PROJECT_DIR$/geocodio_yelpop/yelp_categories_htmlfile" />
         <option value="$PROJECT_DIR$/yelp_score/filteredchonly.py" />
+        <option value="$PROJECT_DIR$/ml_algorithm/test1.py" />
+        <option value="$PROJECT_DIR$/scoresgeneration/score_normalization.py" />
         <option value="$PROJECT_DIR$/scoresgeneration/roadsegment_score.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="672" />
+    <option name="x" value="670" />
     <option name="width" value="1895" />
-    <option name="height" value="1048" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -110,6 +115,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -122,21 +128,15 @@
               <item name="Thesis" type="462c0819:PsiDirectoryNode" />
               <item name="scoresgeneration" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Thesis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Thesis" type="462c0819:PsiDirectoryNode" />
-              <item name="yelp_score" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/UMKCStudies/Thesis/roadsplit/roadparts.py" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Intern Stuff/ImagesExtract" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -157,7 +157,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.roadsegment_score">
+  <component name="RunManager" selected="Python.score_normalization">
     <configuration name="filteredchonly" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Thesis" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -242,7 +242,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="weights_op" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="score_normalization" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Thesis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -254,7 +254,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scoresgeneration/weights_op.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scoresgeneration/score_normalization.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -265,18 +265,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.roadparts" />
-      <item itemvalue="Python.weights_op" />
       <item itemvalue="Python.roadsegment_score" />
       <item itemvalue="Python.nullbyte_test" />
       <item itemvalue="Python.filteredchonly" />
+      <item itemvalue="Python.score_normalization" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.score_normalization" />
         <item itemvalue="Python.roadsegment_score" />
         <item itemvalue="Python.filteredchonly" />
         <item itemvalue="Python.nullbyte_test" />
         <item itemvalue="Python.roadparts" />
-        <item itemvalue="Python.weights_op" />
       </list>
     </recent_temporary>
   </component>
@@ -303,14 +303,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09799789" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19022457" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32925472" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42903575" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.43140027" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39869988" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -437,10 +437,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scoresgeneration/valuesfile.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/geocodio_yelpop/categories">
       <provider selected="true" editor-type-id="text-editor">
@@ -457,13 +457,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/roadsplit/minmaxstreets.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
       <provider selected="true" editor-type-id="csv-text-editor">
         <state relative-caret-position="54">
           <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
         </state>
-      </provider>
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/yelp_filtered/reviewcount/reviewcount_histogram.py">
@@ -487,20 +487,20 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/yelp_score/filtered_chonly.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
       <provider selected="true" editor-type-id="csv-text-editor">
         <state relative-caret-position="216">
           <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
         </state>
       </provider>
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scoresgeneration/calc_segmentscore.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$USER_HOME$/Anaconda3/envs/Thesis/Lib/site-packages/pandas/io/parsers.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -509,20 +509,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/roadsplit/minmaxstreetnumber.py">
+    <entry file="file://$PROJECT_DIR$/ml_algorithm/test1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yelp_score/filteredchonly.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        <state relative-caret-position="198">
+          <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yelp_score/filteredchonly.py">
+    <entry file="file://$PROJECT_DIR$/roadsplit/minmaxstreetnumber.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        <state relative-caret-position="270">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
@@ -531,15 +534,25 @@
     </entry>
     <entry file="file://$USER_HOME$/Anaconda3/envs/Thesis/Lib/site-packages/tabulate.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17154">
-          <caret line="958" column="56" selection-start-line="958" selection-start-column="39" selection-end-line="958" selection-end-column="56" />
+        <state relative-caret-position="125">
+          <caret line="958" column="4" selection-start-line="958" selection-start-column="4" selection-end-line="958" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scoresgeneration/roadsegment_score.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="32" column="39" lean-forward="true" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+        <state relative-caret-position="391">
+          <caret line="37" column="29" lean-forward="true" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scoresgeneration/score_normalization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

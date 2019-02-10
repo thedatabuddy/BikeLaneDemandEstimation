@@ -9,6 +9,8 @@ segment['road_ids']=[[] for _ in range(len(segment))]
 segment['address_nos']=[[] for _ in range(len(segment))]
 segment['yelp_ids']=[[] for _ in range(len(segment))]
 segment['yelp_address_nos']=[[] for _ in range(len(segment))]
+segment['accident_count']=0
+segment['business_count']=0
 
 for i in range(segment.shape[0]):
     for j in range(pointscore.shape[0]):
@@ -26,6 +28,9 @@ for i in range(segment.shape[0]):
                 segment.at[i, 'yelp_ids'] = segment.loc[i]['yelp_ids']+[yelp_pointscore.loc[j]['business_id']]
                 segment.at[i, 'yelp_address_nos'] = segment.loc[i]['yelp_address_nos']+[yelp_pointscore.loc[j]['gc_Number']]
 
+for i in range(segment.shape[0]):
+    segment.at[i,'accident_count'] = len(segment.loc[i]['road_ids'])
+    segment.at[i,'business_count'] = len(segment.loc[i]['yelp_ids'])
 
 # writer=pd.ExcelWriter('calc_segmentscore.xlsx')
 # segment.to_excel(writer)

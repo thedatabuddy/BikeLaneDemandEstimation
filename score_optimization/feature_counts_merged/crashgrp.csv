@@ -1,21 +1,21 @@
 ,wlane,wolane
-Motorist Overtaking Bicyclist,105,1297
-Motorist Right Turn / Merge,60,325
-Motorist Left Turn / Merge,40,605
-Loss of Control / Turning Error,37,314
-Bicyclist Left Turn / Merge,36,335
-Motorist Failed to Yield - Sign-Controlled Intersection,28,725
-Motorist Failed to Yield - Midblock,26,467
-Parallel Paths - Other Circumstances,14,130
-Crossing Paths - Other Circumstances,12,409
-Bicyclist Failed to Yield - Midblock,9,484
-Bicyclist Right Turn / Merge,9,85
-Bicyclist Overtaking Motorist,8,141
-Head-On,7,199
-Motorist Failed to Yield - Signalized Intersection,5,221
-Bicyclist Failed to Yield - Signalized Intersection,4,328
-Bicyclist Failed to Yield - Sign-Controlled Intersection,2,498
-Non-Roadway,2,317
-Other / Unknown - Insufficient Details,1,71
-Parking / Bus-Related,1,3
-Other / Unusual Circumstances,1,40
+Bicyclist Failed to Yield - Midblock,9.0,484
+Bicyclist Failed to Yield - Sign-Controlled Intersection,2.0,498
+Bicyclist Failed to Yield - Signalized Intersection,4.0,328
+Bicyclist Left Turn / Merge,36.0,335
+Bicyclist Overtaking Motorist,8.0,141
+Bicyclist Right Turn / Merge,9.0,85
+Crossing Paths - Other Circumstances,12.0,409
+Head-On,7.0,199
+Loss of Control / Turning Error,37.0,314
+Motorist Failed to Yield - Midblock,26.0,467
+Motorist Failed to Yield - Sign-Controlled Intersection,28.0,725
+Motorist Failed to Yield - Signalized Intersection,5.0,221
+Motorist Left Turn / Merge,40.0,605
+Motorist Overtaking Bicyclist,105.0,1297
+Motorist Right Turn / Merge,60.0,325
+Non-Roadway,2.0,317
+Other / Unknown - Insufficient Details,1.0,71
+Other / Unusual Circumstances,1.0,40
+Parallel Paths - Other Circumstances,14.0,130
+Parking / Bus-Related,1.0,3

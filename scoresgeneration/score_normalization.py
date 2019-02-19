@@ -3,7 +3,7 @@ from tabulate import tabulate
 
 pdtabulate=lambda df:tabulate(df,headers='keys',tablefmt='psql')
 
-inpfile=pd.read_csv(r'E:\UMKCStudies\Thesis\scoresgeneration\calc_segmentscore.csv')
+inpfile=pd.read_csv(r'E:\UMKCStudies\Thesis\scoresgeneration\calc_segmentscore_optimized.csv')
 
 max_business_count=2
 max_accident_count=2
@@ -16,4 +16,4 @@ for i in range(inpfile.shape[0]):
     if inpfile.loc[i]['norm_score']>10:
         inpfile.at[i, 'norm_score']=10.0
 
-inpfile.to_csv('normalized_scores.csv')
+inpfile.to_csv('normalized_scores_optimized.csv')

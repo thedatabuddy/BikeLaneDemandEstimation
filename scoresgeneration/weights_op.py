@@ -2,7 +2,12 @@ import pandas as pd
 import numpy as np
 import pandasql as pdsql
 import os
-pd.set_option('display.max_columns', 10)
+from tabulate import tabulate
+import time
+
+start=time.time()
+
+pdtabulate=lambda df:tabulate(df,headers='keys',tablefmt='psql')
 
 pdquery=lambda q:pdsql.sqldf(q,globals())
 
@@ -11,11 +16,15 @@ data=pdquery("select * from data2 where geocodio_City='Charlotte'")
 newdata=pd.DataFrame()
 
 features={}
+attributes={}
 filenames=[]
-directory=r'E:\UMKCStudies\Thesis\features_unique\features'
-for filename in os.listdir(directory):
+for filename in os.listdir(r'E:\UMKCStudies\Thesis\features_unique\features'):
     filenames.append(filename[:-5])
-    features[filename[:-5]]=pd.read_excel(directory+'\\'+filename)
+    features[filename[:-5]]=pd.read_excel(r'E:\UMKCStudies\Thesis\features_unique\features'+'\\'+filename)
+
+for filename in os.listdir(r'E:\UMKCStudies\Thesis\score_optimization\woe_calculated'):
+    attributes[filename.split('.')[0]] = pd.read_csv(r'E:\UMKCStudies\Thesis\score_optimization\woe_calculated' + '\\' + filename)
+
 
 for filename in filenames:
     newdata[filename]=data[filename]
@@ -24,21 +33,30 @@ newdata['geocodio_AddressNumber']=data['geocodio_AddressNumber']
 newdata['geocodio_Street']=data['geocodio_Street']
 
 
+for filename in filenames:
+    df1=pd.DataFrame()
+    df1=features[filename]
+    df2=pd.DataFrame()
+    df2=attributes[filename]
+    for i,newdata_row in newdata.iterrows():
+        for j,df1_row in df1.iterrows():
+            if newdata_row[filename]==df1_row['label']:
+                for k, df2_row in df2.iterrows():
+                    if newdata_row[filename]==df2_row[0]:
+                        newdata.loc[i,filename]=df1.loc[j]['value']*df2.loc[k]['WoEScore']
 
 for filename in filenames:
-    df=pd.DataFrame()
-    df=features[filename]
-    for i in range(newdata.shape[0]):
-        for j in range(df.shape[0]):
-            if newdata.loc[i][filename]==df.loc[j]['label']:
-                newdata.loc[i,filename]=df.loc[j]['value']
+    df1=pd.DataFrame()
+    df1=features[filename]
+    df2=pd.DataFrame()
+    df2=attributes[filename]
+    for i,newdata_row in newdata.iterrows():
+        for j,df1_row in df1.iterrows():
+            if newdata_row[filename]==df1_row['label']:
+                newdata.loc[i,filename]=df1.loc[j]['value']
 
-newdata['point_score']=0
-
-for filename in filenames:
-    newdata['point_score']=newdata['point_score']+newdata[filename]
-print(newdata.head())
 # writer=pd.ExcelWriter('valuesfile.xlsx')
 # newdata.to_excel(writer)
 # writer.save()
-newdata.to_csv('valuesfile.csv')
+newdata.to_csv('valuesfile_2.csv')
+print(time.time()-start)

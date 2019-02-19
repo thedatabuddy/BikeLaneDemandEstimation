@@ -1,50 +1,50 @@
 ,wlane,wolane
-Motorist Right Turn - Same Direction,58,268
-Motorist Overtaking - Other / Unknown,54,612
-Bicyclist Left Turn - Same Direction,36,281
-Motorist Left Turn - Opposite Direction,34,533
-Motorist Drive Out - Sign-Controlled Intersection,27,674
-Motorist Lost Control - Other / Unknown,25,36
-Motorist Drive Out - Commercial Driveway / Alley,22,382
-Motorist Overtaking - Misjudged Space,20,263
-Motorist Overtaking - Bicyclist Swerved,19,182
-Motorist Overtaking - Undetected Bicyclist,12,240
-Bicyclist Ride Out - Parallel Path,8,55
-Head-On - Bicyclist,6,157
-Motorist Left Turn - Same Direction,6,72
-Bicyclist Ride Out - Other Midblock,6,134
-Parallel Paths - Other / Unknown,6,65
-Bicyclist Right Turn - Opposite Direction,5,11
-Crossing Paths - Intersection - Other / Unknown,4,110
-Bicyclist Right Turn - Same Direction,4,74
-Bicyclist Lost Control - Other / Unknown,4,47
-"Motorist Lost Control - Oversteering, Improper Braking, Speed",3,5
-Motorist Drive Out - Other Midblock,3,38
-Motorist Drive Out - Signalized Intersection,3,65
-Crossing Paths - Uncontrolled Intersection,3,63
-Signalized Intersection - Other / Unknown,3,145
-Bicyclist Overtaking - Parked Vehicle,3,41
-Bicyclist Ride Out - Midblock - Unknown,3,112
-Bicyclist Ride Through - Signalized Intersection,2,192
-Bicyclist Overtaking - Extended Door,2,17
-Motorist Drive Out - Right Turn on Red,2,123
-Motorist Right Turn - Opposite Direction,2,48
-Non-Roadway,2,317
-Bicyclist Overtaking - Other / Unknown,2,47
-Bicyclist Lost Control - Surface Conditions,2,7
-Motorist Drive In / Out - Parking,1,3
-Motorist Turning Error - Right Turn,1,17
-Motorist Intentionally Caused,1,15
-Motorist Drive Out - Residential Driveway,1,34
-Unknown Approach Paths,1,65
-Motorist Lost Control - Alcohol / Drug Impairment,1,3
-Bicyclist Overtaking - Passing on Left,1,10
-Sign-Controlled Intersection - Other / Unknown,1,64
-Bicyclist Failed to Clear - Trapped,1,32
-Crossing Paths - Midblock - Other / Unknown,1,27
-Motorist Drive Through - Sign-Controlled Intersection,1,51
-Motorist Lost Control - Mechanical Problems,1,3
-Bicyclist Ride Out - Sign-Controlled Intersection,1,115
-Head-On - Motorist,1,33
-Bicyclist Ride Out - Signalized  Intersection,1,89
-Bicyclist Ride Through - Sign-Controlled Intersection,1,382
+Bicyclist Failed to Clear - Trapped,1.0,32
+Bicyclist Left Turn - Same Direction,36.0,281
+Bicyclist Lost Control - Other / Unknown,4.0,47
+Bicyclist Lost Control - Surface Conditions,2.0,7
+Bicyclist Overtaking - Extended Door,2.0,17
+Bicyclist Overtaking - Other / Unknown,2.0,47
+Bicyclist Overtaking - Parked Vehicle,3.0,41
+Bicyclist Overtaking - Passing on Left,1.0,10
+Bicyclist Ride Out - Midblock - Unknown,3.0,112
+Bicyclist Ride Out - Other Midblock,6.0,134
+Bicyclist Ride Out - Parallel Path,8.0,55
+Bicyclist Ride Out - Sign-Controlled Intersection,1.0,115
+Bicyclist Ride Out - Signalized  Intersection,1.0,89
+Bicyclist Ride Through - Sign-Controlled Intersection,1.0,382
+Bicyclist Ride Through - Signalized Intersection,2.0,192
+Bicyclist Right Turn - Opposite Direction,5.0,11
+Bicyclist Right Turn - Same Direction,4.0,74
+Crossing Paths - Intersection - Other / Unknown,4.0,110
+Crossing Paths - Midblock - Other / Unknown,1.0,27
+Crossing Paths - Uncontrolled Intersection,3.0,63
+Head-On - Bicyclist,6.0,157
+Head-On - Motorist,1.0,33
+Motorist Drive In / Out - Parking,1.0,3
+Motorist Drive Out - Commercial Driveway / Alley,22.0,382
+Motorist Drive Out - Other Midblock,3.0,38
+Motorist Drive Out - Residential Driveway,1.0,34
+Motorist Drive Out - Right Turn on Red,2.0,123
+Motorist Drive Out - Sign-Controlled Intersection,27.0,674
+Motorist Drive Out - Signalized Intersection,3.0,65
+Motorist Drive Through - Sign-Controlled Intersection,1.0,51
+Motorist Intentionally Caused,1.0,15
+Motorist Left Turn - Opposite Direction,34.0,533
+Motorist Left Turn - Same Direction,6.0,72
+Motorist Lost Control - Alcohol / Drug Impairment,1.0,3
+Motorist Lost Control - Mechanical Problems,1.0,3
+Motorist Lost Control - Other / Unknown,25.0,36
+"Motorist Lost Control - Oversteering, Improper Braking, Speed",3.0,5
+Motorist Overtaking - Bicyclist Swerved,19.0,182
+Motorist Overtaking - Misjudged Space,20.0,263
+Motorist Overtaking - Other / Unknown,54.0,612
+Motorist Overtaking - Undetected Bicyclist,12.0,240
+Motorist Right Turn - Opposite Direction,2.0,48
+Motorist Right Turn - Same Direction,58.0,268
+Motorist Turning Error - Right Turn,1.0,17
+Non-Roadway,2.0,317
+Parallel Paths - Other / Unknown,6.0,65
+Sign-Controlled Intersection - Other / Unknown,1.0,64
+Signalized Intersection - Other / Unknown,3.0,145
+Unknown Approach Paths,1.0,65

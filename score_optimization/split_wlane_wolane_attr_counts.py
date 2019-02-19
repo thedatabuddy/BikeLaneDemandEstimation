@@ -19,5 +19,8 @@ for feature in features:
     df1.columns = ['wlane']
     df2=pd.DataFrame(wolane[feature].value_counts())
     df2.columns = ['wolane']
-    final_df=df1.join(df2,lsuffix='wlane', rsuffix='wolane')
+    full_df=pd.DataFrame(wolane[feature].value_counts())
+    final_df=df1.join(df2,lsuffix='wlane', rsuffix='wolane',how='outer')
+    final_df=final_df.replace(0,pd.np.nan).dropna(axis=0, how='any')
+    print(pdtabulate(final_df))
     final_df.to_csv(r'E:\UMKCStudies\Thesis\score_optimization\feature_counts_merged\\'+feature + '.csv')

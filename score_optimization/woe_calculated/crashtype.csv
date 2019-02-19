@@ -1,50 +1,50 @@
 ,wlane,wolane,WoEScore
-Motorist Lost Control - Other / Unknown,25,36,-248.87440314567834
-"Motorist Lost Control - Oversteering, Improper Braking, Speed",3,5,-234.25615212787022
-Bicyclist Right Turn - Opposite Direction,5,11,-206.49297846804225
-Motorist Drive In / Out - Parking,1,3,-175.4774856376583
-Motorist Lost Control - Mechanical Problems,1,3,-175.4774856376583
-Motorist Lost Control - Alcohol / Drug Impairment,1,3,-175.4774856376583
-Bicyclist Lost Control - Surface Conditions,2,7,-160.06241765493246
-Motorist Right Turn - Same Direction,58,268,-132.28431750802557
-Bicyclist Ride Out - Parallel Path,8,55,-92.54955014920579
-Bicyclist Left Turn - Same Direction,36,281,-79.8551414167057
-Bicyclist Overtaking - Extended Door,2,17,-71.3320981548422
-Motorist Overtaking - Bicyclist Swerved,19,182,-59.381943713433785
-Bicyclist Overtaking - Passing on Left,1,10,-55.0802052050647
-Parallel Paths - Other / Unknown,6,65,-47.07593443771108
-Motorist Overtaking - Other / Unknown,54,612,-42.563890909664096
-Bicyclist Lost Control - Other / Unknown,4,47,-38.95339044545247
-Motorist Left Turn - Same Direction,6,72,-36.84804952566925
-Motorist Drive Out - Other Midblock,3,38,-31.441327398641672
-Motorist Overtaking - Misjudged Space,20,263,-27.696538642091916
-Bicyclist Overtaking - Parked Vehicle,3,41,-23.84273670084946
-Motorist Intentionally Caused,1,15,-14.533694394248261
-Motorist Left Turn - Opposite Direction,34,533,-10.12262454950096
-Motorist Turning Error - Right Turn,1,17,-2.017380098847667
-Motorist Drive Out - Commercial Driveway / Alley,22,382,0.0991010203566524
-Bicyclist Right Turn - Same Direction,4,74,6.43835870395865
-Motorist Overtaking - Undetected Bicyclist,12,240,14.234512850929825
-Crossing Paths - Uncontrolled Intersection,3,63,19.113529267873012
-Motorist Drive Out - Signalized Intersection,3,65,22.23878361828345
-Bicyclist Ride Out - Other Midblock,6,134,25.269318567816352
-Bicyclist Overtaking - Other / Unknown,2,47,30.361327610542055
-Motorist Right Turn - Opposite Direction,2,48,32.46666853032529
-Motorist Drive Out - Sign-Controlled Intersection,27,674,36.40060998632853
-Head-On - Bicyclist,6,157,41.109919107556024
-Crossing Paths - Midblock - Other / Unknown,1,27,44.24497209596364
-Crossing Paths - Intersection - Other / Unknown,4,110,46.07988596278328
-Bicyclist Failed to Clear - Trapped,1,32,61.23487577550337
-Head-On - Motorist,1,33,64.31204164217874
-Motorist Drive Out - Residential Driveway,1,34,67.29733795714687
-Bicyclist Ride Out - Midblock - Unknown,3,112,76.64994375822921
-Signalized Intersection - Other / Unknown,3,145,102.47343087077721
-Motorist Drive Through - Sign-Controlled Intersection,1,51,107.84384876796331
-Motorist Drive Out - Right Turn on Red,2,123,126.56500297677795
-Sign-Controlled Intersection - Other / Unknown,1,64,130.5495938314979
-Unknown Approach Paths,1,65,132.10001248509442
-Bicyclist Ride Out - Signalized  Intersection,1,89,163.5249224687447
-Bicyclist Ride Through - Signalized Intersection,2,192,171.09610464231434
-Bicyclist Ride Out - Sign-Controlled Intersection,1,115,189.15449833185573
-Non-Roadway,2,317,221.23674482726426
-Bicyclist Ride Through - Sign-Controlled Intersection,1,382,309.20334635618826
+Motorist Right Turn - Same Direction,58.0,268.0,1.0
+Motorist Overtaking - Other / Unknown,54.0,612.0,1.0
+Bicyclist Left Turn - Same Direction,36.0,281.0,1.0
+Motorist Lost Control - Other / Unknown,25.0,36.0,1.0
+Motorist Overtaking - Bicyclist Swerved,19.0,182.0,1.0
+Motorist Overtaking - Misjudged Space,20.0,263.0,1.0
+Bicyclist Ride Out - Parallel Path,8.0,55.0,1.0
+Motorist Left Turn - Opposite Direction,34.0,533.0,1.0
+Parallel Paths - Other / Unknown,6.0,65.0,1.0
+Bicyclist Right Turn - Opposite Direction,5.0,11.0,1.0
+Motorist Left Turn - Same Direction,6.0,72.0,1.0
+Bicyclist Lost Control - Other / Unknown,4.0,47.0,1.0
+"Motorist Lost Control - Oversteering, Improper Braking, Speed",3.0,5.0,1.0
+Bicyclist Lost Control - Surface Conditions,2.0,7.0,1.0
+Bicyclist Overtaking - Extended Door,2.0,17.0,1.0
+Motorist Drive Out - Other Midblock,3.0,38.0,1.0
+Bicyclist Overtaking - Parked Vehicle,3.0,41.0,1.0
+Motorist Drive In / Out - Parking,1.0,3.0,1.0
+Motorist Lost Control - Mechanical Problems,1.0,3.0,1.0
+Motorist Lost Control - Alcohol / Drug Impairment,1.0,3.0,1.0
+Bicyclist Overtaking - Passing on Left,1.0,10.0,1.0
+Motorist Intentionally Caused,1.0,15.0,1.0
+Motorist Turning Error - Right Turn,1.0,17.0,1.0
+Motorist Drive Out - Commercial Driveway / Alley,22.0,382.0,0.9996619222948356
+Bicyclist Right Turn - Same Direction,4.0,74.0,0.9957594048489384
+Crossing Paths - Midblock - Other / Unknown,1.0,27.0,0.9895388604034907
+Crossing Paths - Uncontrolled Intersection,3.0,63.0,0.9893477374513168
+Bicyclist Overtaking - Other / Unknown,2.0,47.0,0.9874375635243793
+Motorist Drive Out - Signalized Intersection,3.0,65.0,0.9872304091427663
+Motorist Right Turn - Opposite Direction,2.0,48.0,0.986292294289528
+Bicyclist Failed to Clear - Trapped,1.0,32.0,0.9829364330167673
+Head-On - Motorist,1.0,33.0,0.9815358952841101
+Motorist Drive Out - Residential Driveway,1.0,34.0,0.9801105409978492
+Bicyclist Ride Out - Other Midblock,6.0,134.0,0.9701270159609043
+Motorist Overtaking - Undetected Bicyclist,12.0,240.0,0.9697099360512603
+Crossing Paths - Intersection - Other / Unknown,4.0,110.0,0.9556418640544935
+Motorist Drive Through - Sign-Controlled Intersection,1.0,51.0,0.9526460988806503
+Head-On - Bicyclist,6.0,157.0,0.9434163098082224
+Sign-Controlled Intersection - Other / Unknown,1.0,64.0,0.9283450953845167
+Unknown Approach Paths,1.0,65.0,0.9263786401791957
+Bicyclist Ride Out - Midblock - Unknown,3.0,112.0,0.925566794671419
+Bicyclist Ride Out - Signalized  Intersection,1.0,89.0,0.8757250772254607
+Signalized Intersection - Other / Unknown,3.0,145.0,0.871935124130994
+Motorist Drive Out - Right Turn on Red,2.0,123.0,0.8664079275311081
+Bicyclist Ride Out - Sign-Controlled Intersection,1.0,115.0,0.8147186511824029
+Motorist Drive Out - Sign-Controlled Intersection,27.0,674.0,0.7845315338808793
+Bicyclist Ride Through - Signalized Intersection,2.0,192.0,0.719715621946158
+Non-Roadway,2.0,317.0,0.40405664237146266
+Bicyclist Ride Through - Sign-Controlled Intersection,1.0,382.0,0.0

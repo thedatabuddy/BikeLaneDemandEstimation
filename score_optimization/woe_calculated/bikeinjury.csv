@@ -1,7 +1,7 @@
 ,wlane,wolane,WoEScore
-K: Killed,10,152,-13.209171719246196
-B: Evident Injury,181,2924,-7.117635544084948
-A: Disabling Injury,21,343,-6.017913560217585
-Unknown Injury,12,198,-5.002676413815787
-O: No Injury,40,670,-3.4988886773617334
-C: Possible Injury,143,2773,11.145327031117782
+B: Evident Injury,181.0,2924.0,1.0
+O: No Injury,40.0,670.0,1.0
+A: Disabling Injury,21.0,343.0,1.0
+K: Killed,10.0,152.0,1.0
+Unknown Injury,12.0,198.0,1.0
+C: Possible Injury,143.0,2773.0,0.0

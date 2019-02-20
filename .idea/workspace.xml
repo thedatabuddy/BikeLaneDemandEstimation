@@ -2,40 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="863bdf29-605f-4b4f-8d54-675986f7b0fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/optimized_score_generation/optimized_score.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ml_algorithm_2/bow_implementation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ml_algorithm_2/test_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/score_optimization/feature_counts_merged/bikedir.csv" beforeDir="false" afterPath="$PROJECT_DIR$/score_optimization/feature_counts_merged/bikedir.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/score_optimization/feature_counts_merged/bikepos.csv" beforeDir="false" afterPath="$PROJECT_DIR$/score_optimization/feature_counts_merged/bikepos.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/score_optimization/feature_counts_merged/crashgrp.csv" beforeDir="false" afterPath="$PROJECT_DIR$/score_optimization/feature_counts_merged/crashgrp.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/score_optimization/feature_counts_merged/crashloc.csv" beforeDir="false" afterPath="$PROJECT_DIR$/score_optimization/feature_counts_merged/crashloc.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/score_optimization/feature_counts_merged/crashtype.csv" beforeDir="false" afterPath="$PROJECT_DIR$/score_optimization/feature_counts_merged/crashtype.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/score_optimization/feature_counts_merged/development.csv" beforeDir="false" afterPath="$PROJECT_DIR$/score_optimization/feature_counts_merged/development.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/score_optimization/feature_counts_merged/drvrinjury.csv" beforeDir="false" afterPath="$PROJECT_DIR$/score_optimization/feature_counts_merged/drvrinjury.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/score_optimization/graph_ambulancer.html" beforeDir="false" afterPath="$PROJECT_DIR$/score_optimization/graph_ambulancer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/score_optimization/graph_bikedir.html" beforeDir="false" afterPath="$PROJECT_DIR$/score_optimization/graph_bikedir.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/score_optimization/graph_bikeinjury.html" beforeDir="false" afterPath="$PROJECT_DIR$/score_optimization/graph_bikeinjury.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/score_optimization/graph_bikepos.html" beforeDir="false" afterPath="$PROJECT_DIR$/score_optimization/graph_bikepos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/score_optimization/graph_crashgrp.html" beforeDir="false" afterPath="$PROJECT_DIR$/score_optimization/graph_crashgrp.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/score_optimization/graph_crashloc.html" beforeDir="false" afterPath="$PROJECT_DIR$/score_optimization/graph_crashloc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/score_optimization/graph_crashtype.html" beforeDir="false" afterPath="$PROJECT_DIR$/score_optimization/graph_crashtype.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/score_optimization/graph_development.html" beforeDir="false" afterPath="$PROJECT_DIR$/score_optimization/graph_development.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/score_optimization/graph_drvrinjury.html" beforeDir="false" afterPath="$PROJECT_DIR$/score_optimization/graph_drvrinjury.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/score_optimization/split_wlane_wolane_attr_counts.py" beforeDir="false" afterPath="$PROJECT_DIR$/score_optimization/split_wlane_wolane_attr_counts.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/score_optimization/woe_calculated/ambulancer.csv" beforeDir="false" afterPath="$PROJECT_DIR$/score_optimization/woe_calculated/ambulancer.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/score_optimization/woe_calculated/bikedir.csv" beforeDir="false" afterPath="$PROJECT_DIR$/score_optimization/woe_calculated/bikedir.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/score_optimization/woe_calculated/bikeinjury.csv" beforeDir="false" afterPath="$PROJECT_DIR$/score_optimization/woe_calculated/bikeinjury.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/score_optimization/woe_calculated/bikepos.csv" beforeDir="false" afterPath="$PROJECT_DIR$/score_optimization/woe_calculated/bikepos.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/score_optimization/woe_calculated/crashgrp.csv" beforeDir="false" afterPath="$PROJECT_DIR$/score_optimization/woe_calculated/crashgrp.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/score_optimization/woe_calculated/crashloc.csv" beforeDir="false" afterPath="$PROJECT_DIR$/score_optimization/woe_calculated/crashloc.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/score_optimization/woe_calculated/crashtype.csv" beforeDir="false" afterPath="$PROJECT_DIR$/score_optimization/woe_calculated/crashtype.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/score_optimization/woe_calculated/development.csv" beforeDir="false" afterPath="$PROJECT_DIR$/score_optimization/woe_calculated/development.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/score_optimization/woe_calculated/drvrinjury.csv" beforeDir="false" afterPath="$PROJECT_DIR$/score_optimization/woe_calculated/drvrinjury.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/score_optimization/woe_calculation.py" beforeDir="false" afterPath="$PROJECT_DIR$/score_optimization/woe_calculation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scoresgeneration/nullbyte_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scoresgeneration/roadsegment_score.py" beforeDir="false" afterPath="$PROJECT_DIR$/scoresgeneration/roadsegment_score.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scoresgeneration/score_normalization.py" beforeDir="false" afterPath="$PROJECT_DIR$/scoresgeneration/score_normalization.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scoresgeneration/scoresdistribution.twb" beforeDir="false" afterPath="$PROJECT_DIR$/scoresgeneration/scoresdistribution.twb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scoresgeneration/weights_op.py" beforeDir="false" afterPath="$PROJECT_DIR$/scoresgeneration/weights_op.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scoresgeneration/~scoresdistribution__16260.twbr" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,11 +15,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scoresgeneration/score_normalization.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="324">
-              <caret line="18" column="49" lean-forward="true" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+              <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ml_algorithm_2/test_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ml_algorithm_2/bow_implementation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="339">
+              <caret line="49" column="20" lean-forward="true" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -60,8 +51,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/score_optimization/split_wlane_wolane_attr_counts.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+            <state relative-caret-position="108">
+              <caret line="6" selection-start-line="6" selection-end-line="9" selection-end-column="43" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -83,20 +74,20 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/score_optimization/woe_calculated/ambulancer.csv">
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+          </provider>
           <provider selected="true" editor-type-id="csv-text-editor">
             <state>
               <caret column="14" selection-start-column="14" selection-end-column="22" />
             </state>
-          </provider>
-          <provider editor-type-id="csv-table-editor">
-            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/optimized_score_generation/optimized_score.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
+            <state relative-caret-position="90">
               <caret line="7" selection-start-line="7" selection-end-line="10" selection-end-column="43" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
@@ -108,8 +99,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scoresgeneration/weights_op.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+            <state relative-caret-position="918">
+              <caret line="56" selection-start-line="56" selection-end-line="56" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -120,8 +111,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scoresgeneration/roadsegment_score.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="47" column="46" lean-forward="true" selection-start-line="47" selection-start-column="46" selection-end-line="47" selection-end-column="46" />
+            <state relative-caret-position="810">
+              <caret line="47" column="46" selection-start-line="47" selection-start-column="46" selection-end-line="47" selection-end-column="46" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -172,16 +163,19 @@
         <option value="$PROJECT_DIR$/scoresgeneration/pytest.py" />
         <option value="$PROJECT_DIR$/score_optimization/feature_counts_merged.py" />
         <option value="$PROJECT_DIR$/optimized_score_generation/optimized_score.py" />
-        <option value="$PROJECT_DIR$/score_optimization/split_wlane_wolane_attr_counts.py" />
         <option value="$PROJECT_DIR$/score_optimization/woe_calculation.py" />
         <option value="$PROJECT_DIR$/scoresgeneration/weights_op.py" />
         <option value="$PROJECT_DIR$/scoresgeneration/roadsegment_score.py" />
         <option value="$PROJECT_DIR$/scoresgeneration/score_normalization.py" />
+        <option value="$PROJECT_DIR$/score_optimization/split_wlane_wolane_attr_counts.py" />
+        <option value="$PROJECT_DIR$/ml_algorithm_2/test_1.py" />
+        <option value="$PROJECT_DIR$/ml_algorithm_2/bow_implementation.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1075" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1485" />
     <option name="height" value="1040" />
   </component>
@@ -192,7 +186,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -208,29 +201,7 @@
             <path>
               <item name="Thesis" type="b2602c69:ProjectViewProjectNode" />
               <item name="Thesis" type="462c0819:PsiDirectoryNode" />
-              <item name="features_unique" type="462c0819:PsiDirectoryNode" />
-              <item name="features" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Thesis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Thesis" type="462c0819:PsiDirectoryNode" />
-              <item name="jsontoxlsx" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Thesis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Thesis" type="462c0819:PsiDirectoryNode" />
-              <item name="roadsplit" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Thesis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Thesis" type="462c0819:PsiDirectoryNode" />
-              <item name="score_optimization" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Thesis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Thesis" type="462c0819:PsiDirectoryNode" />
-              <item name="score_optimization" type="462c0819:PsiDirectoryNode" />
-              <item name="woe_calculated" type="462c0819:PsiDirectoryNode" />
+              <item name="ml_algorithm_2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Thesis" type="b2602c69:ProjectViewProjectNode" />
@@ -241,6 +212,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -269,7 +241,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.score_normalization">
+  <component name="RunManager" selected="Python.bow_implementation">
+    <configuration name="bow_implementation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Thesis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ml_algorithm_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ml_algorithm_2/bow_implementation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="roadsegment_score" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Thesis" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -312,7 +305,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="split_wlane_wolane_attr_counts" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Thesis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -320,11 +313,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/score_optimization" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ml_algorithm_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/score_optimization/split_wlane_wolane_attr_counts.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ml_algorithm_2/test_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -354,41 +347,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="woe_calculation" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Thesis" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/score_optimization" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/score_optimization/woe_calculation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.split_wlane_wolane_attr_counts" />
-      <item itemvalue="Python.woe_calculation" />
       <item itemvalue="Python.weights_op" />
       <item itemvalue="Python.roadsegment_score" />
       <item itemvalue="Python.score_normalization" />
+      <item itemvalue="Python.test_1" />
+      <item itemvalue="Python.bow_implementation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.bow_implementation" />
+        <item itemvalue="Python.test_1" />
         <item itemvalue="Python.score_normalization" />
         <item itemvalue="Python.roadsegment_score" />
         <item itemvalue="Python.weights_op" />
-        <item itemvalue="Python.woe_calculation" />
-        <item itemvalue="Python.split_wlane_wolane_attr_counts" />
       </list>
     </recent_temporary>
   </component>
@@ -416,13 +388,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1075" y="0" width="1485" height="1040" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19419488" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32925472" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.43109152" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.43109152" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39869988" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -437,22 +410,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/yelpdata.py" />
-    <entry file="file://$USER_HOME$/Anaconda3/envs/Thesis/Lib/site-packages/matplotlib/pyplot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="2649" column="4" selection-start-line="2649" selection-start-column="4" selection-end-line="2649" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/envs/Thesis/Lib/site-packages/pandas/io/excel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="282" column="4" selection-start-line="282" selection-start-column="4" selection-end-line="282" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features_postgres/unique_features_extract.py" />
     <entry file="file://$PROJECT_DIR$/distance_haversine_charlotteonly/charlotteonly.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -486,13 +443,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/roadsplit/minmaxstreets.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
       <provider selected="true" editor-type-id="csv-text-editor">
         <state relative-caret-position="54">
           <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
         </state>
-      </provider>
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/yelp_filtered/reviewcount/reviewcount_histogram.py">
@@ -509,13 +466,13 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/yelp_score/filtered_chonly.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
       <provider selected="true" editor-type-id="csv-text-editor">
         <state relative-caret-position="216">
           <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
         </state>
-      </provider>
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Anaconda3/envs/Thesis/Lib/site-packages/pandas/io/parsers.py">
@@ -578,35 +535,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scoresgeneration/pytest.py" />
     <entry file="file://$PROJECT_DIR$/score_optimization/feature_counts_wlane/ambulancer.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/score_optimization/feature_counts_wolane/ambulancer.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/score_optimization/feature_counts_merged.py" />
     <entry file="file://$PROJECT_DIR$/score_optimization/feature_counts_merged/bikedir.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/score_optimization/feature_counts_merged/bikeinjury.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/score_optimization/feature_counts_merged/bikepos.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-2046167198/pandas/_libs/parsers.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -616,16 +573,16 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/score_optimization/feature_counts_merged/crashgrp.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/score_optimization/feature_counts_merged/ambulancer.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$USER_HOME$/Anaconda3/envs/Thesis/Lib/site-packages/plotly/offline/offline.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -635,16 +592,16 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/score_optimization/woe_calculated/bikedir.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/scoresgeneration/calc_segmentscore.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/scoresgeneration/nullbyte_test.py" />
     <entry file="file://$USER_HOME$/Anaconda3/envs/Thesis/Lib/site-packages/pandas/core/series.py">
@@ -665,10 +622,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/score_optimization/woe_calculated/crashtype.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$USER_HOME$/Anaconda3/envs/Thesis/Lib/site-packages/pandas/core/frame.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -677,41 +634,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/score_optimization/woe_calculation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_optimization/woe_calculated/ambulancer.csv">
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="22" />
-        </state>
-      </provider>
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/score_optimization/woe_calculated/bikepos.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/score_optimization/split_wlane_wolane_attr_counts.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-2046167198/nt.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -728,25 +655,25 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scoresgeneration/valuesfile.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/scoresgeneration/weights_op.py">
+    <entry file="file://$PROJECT_DIR$/optimized_score_generation/optimized_score.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+        <state relative-caret-position="90">
+          <caret line="7" selection-start-line="7" selection-end-line="10" selection-end-column="43" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/optimized_score_generation/optimized_score.py">
+    <entry file="file://$PROJECT_DIR$/scoresgeneration/weights_op.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" selection-start-line="7" selection-end-line="10" selection-end-column="43" />
+        <state relative-caret-position="918">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
@@ -755,18 +682,79 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scoresgeneration/roadsegment_score.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="47" column="46" lean-forward="true" selection-start-line="47" selection-start-column="46" selection-end-line="47" selection-end-column="46" />
+        <state relative-caret-position="810">
+          <caret line="47" column="46" selection-start-line="47" selection-start-column="46" selection-end-line="47" selection-end-column="46" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/Thesis/Lib/site-packages/sklearn/feature_extraction/text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="835" column="8" selection-start-line="835" selection-start-column="8" selection-end-line="835" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/Thesis/Lib/site-packages/pandas/core/strings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="2542" column="8" selection-start-line="2542" selection-start-column="8" selection-end-line="2542" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/scoresgeneration/score_normalization.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
-          <caret line="18" column="49" lean-forward="true" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/score_optimization/woe_calculated/ambulancer.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/score_optimization/woe_calculation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/score_optimization/split_wlane_wolane_attr_counts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" selection-start-line="6" selection-end-line="9" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml_algorithm_2/test_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml_algorithm_2/bow_implementation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="49" column="20" lean-forward="true" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>

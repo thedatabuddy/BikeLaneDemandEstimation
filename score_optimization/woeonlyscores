@@ -1,0 +1,132 @@
+C:\Users\aadi2\Anaconda3\envs\Thesis\python.exe E:/UMKCStudies/Thesis/score_optimization/woe_calculation_2.py
++-----+---------+----------+------------+
+|     |   wlane |   wolane |   WoEScore |
+|-----+---------+----------+------------|
+| Yes |     284 |     4737 | -0.0392021 |
+| No  |     123 |     2323 |  0.0850432 |
++-----+---------+----------+------------+
++----------------+---------+----------+------------+
+|                |   wlane |   wolane |   WoEScore |
+|----------------+---------+----------+------------|
+| With Traffic   |     314 |     4219 |  -0.255427 |
+| Facing Traffic |      76 |     1659 |   0.22985  |
+| Not Applicable |      13 |      863 |   1.34208  |
+| Unknown        |       4 |      315 |   1.51289  |
++----------------+---------+----------+------------+
++---------------------+---------+----------+------------+
+|                     |   wlane |   wolane |   WoEScore |
+|---------------------+---------+----------+------------|
+| K: Killed           |      10 |      152 | -0.132092  |
+| B: Evident Injury   |     181 |     2924 | -0.0711764 |
+| A: Disabling Injury |      21 |      343 | -0.0601791 |
+| Unknown Injury      |      12 |      198 | -0.0500268 |
+| O: No Injury        |      40 |      670 | -0.0349889 |
+| C: Possible Injury  |     143 |     2773 |  0.111453  |
++---------------------+---------+----------+------------+
++---------+----------+------------+
+| wlane   | wolane   | WoEScore   |
+|---------+----------+------------|
++---------+----------+------------+
++----------------------------------------------------------+---------+----------+------------+
+|                                                          |   wlane |   wolane |   WoEScore |
+|----------------------------------------------------------+---------+----------+------------|
+| Parking / Bus-Related                                    |       1 |        3 | -1.75477   |
+| Motorist Right Turn / Merge                              |      60 |      325 | -1.16391   |
+| Loss of Control / Turning Error                          |      37 |      314 | -0.714912  |
+| Parallel Paths - Other Circumstances                     |      14 |      130 | -0.62491   |
+| Bicyclist Left Turn / Merge                              |      36 |      335 | -0.622776  |
+| Bicyclist Right Turn / Merge                             |       9 |       85 | -0.60796   |
+| Motorist Overtaking Bicyclist                            |     105 |     1297 | -0.339538  |
+| Motorist Left Turn / Merge                               |      40 |      605 | -0.137038  |
+| Bicyclist Overtaking Motorist                            |       8 |      141 |  0.0159312 |
+| Motorist Failed to Yield - Midblock                      |      26 |      467 |  0.0348456 |
+| Motorist Failed to Yield - Sign-Controlled Intersection  |      28 |      725 |  0.40058   |
+| Head-On                                                  |       7 |      199 |  0.494008  |
+| Crossing Paths - Other Circumstances                     |      12 |      409 |  0.675421  |
+| Other / Unusual Circumstances                            |       1 |       40 |  0.835492  |
+| Motorist Failed to Yield - Signalized Intersection       |       5 |      221 |  0.935338  |
+| Bicyclist Failed to Yield - Midblock                     |       9 |      484 |  1.13147   |
+| Other / Unknown - Insufficient Details                   |       1 |       71 |  1.40929   |
+| Bicyclist Failed to Yield - Signalized Intersection      |       4 |      328 |  1.55333   |
+| Non-Roadway                                              |       2 |      317 |  2.21237   |
+| Bicyclist Failed to Yield - Sign-Controlled Intersection |       2 |      498 |  2.66407   |
++----------------------------------------------------------+---------+----------+------------+
++----------------------+---------+----------+------------+
+|                      |   wlane |   wolane |   WoEScore |
+|----------------------+---------+----------+------------|
+| Non-Intersection     |     288 |     3175 |  -0.453285 |
+| Intersection-Related |      15 |      426 |   0.493002 |
+| Intersection         |     102 |     3128 |   0.569789 |
+| Non-Roadway          |       2 |      317 |   2.21237  |
++----------------------+---------+----------+------------+
++---------------------------------------------------------------+---------+----------+-------------+
+|                                                               |   wlane |   wolane |    WoEScore |
+|---------------------------------------------------------------+---------+----------+-------------|
+| Motorist Lost Control - Other / Unknown                       |      25 |       36 | -2.48874    |
+| Motorist Lost Control - Oversteering, Improper Braking, Speed |       3 |        5 | -2.34256    |
+| Bicyclist Right Turn - Opposite Direction                     |       5 |       11 | -2.06493    |
+| Motorist Lost Control - Mechanical Problems                   |       1 |        3 | -1.75477    |
+| Motorist Drive In / Out - Parking                             |       1 |        3 | -1.75477    |
+| Motorist Lost Control - Alcohol / Drug Impairment             |       1 |        3 | -1.75477    |
+| Bicyclist Lost Control - Surface Conditions                   |       2 |        7 | -1.60062    |
+| Motorist Right Turn - Same Direction                          |      58 |      268 | -1.32284    |
+| Bicyclist Ride Out - Parallel Path                            |       8 |       55 | -0.925496   |
+| Bicyclist Left Turn - Same Direction                          |      36 |      281 | -0.798551   |
+| Bicyclist Overtaking - Extended Door                          |       2 |       17 | -0.713321   |
+| Motorist Overtaking - Bicyclist Swerved                       |      19 |      182 | -0.593819   |
+| Bicyclist Overtaking - Passing on Left                        |       1 |       10 | -0.550802   |
+| Parallel Paths - Other / Unknown                              |       6 |       65 | -0.470759   |
+| Motorist Overtaking - Other / Unknown                         |      54 |      612 | -0.425639   |
+| Bicyclist Lost Control - Other / Unknown                      |       4 |       47 | -0.389534   |
+| Motorist Left Turn - Same Direction                           |       6 |       72 | -0.36848    |
+| Motorist Drive Out - Other Midblock                           |       3 |       38 | -0.314413   |
+| Motorist Overtaking - Misjudged Space                         |      20 |      263 | -0.276965   |
+| Bicyclist Overtaking - Parked Vehicle                         |       3 |       41 | -0.238427   |
+| Motorist Intentionally Caused                                 |       1 |       15 | -0.145337   |
+| Motorist Left Turn - Opposite Direction                       |      34 |      533 | -0.101226   |
+| Motorist Turning Error - Right Turn                           |       1 |       17 | -0.0201738  |
+| Motorist Drive Out - Commercial Driveway / Alley              |      22 |      382 |  0.00099101 |
+| Bicyclist Right Turn - Same Direction                         |       4 |       74 |  0.0643836  |
+| Motorist Overtaking - Undetected Bicyclist                    |      12 |      240 |  0.142345   |
+| Crossing Paths - Uncontrolled Intersection                    |       3 |       63 |  0.191135   |
+| Motorist Drive Out - Signalized Intersection                  |       3 |       65 |  0.222388   |
+| Bicyclist Ride Out - Other Midblock                           |       6 |      134 |  0.252693   |
+| Bicyclist Overtaking - Other / Unknown                        |       2 |       47 |  0.303613   |
+| Motorist Right Turn - Opposite Direction                      |       2 |       48 |  0.324667   |
+| Motorist Drive Out - Sign-Controlled Intersection             |      27 |      674 |  0.364006   |
+| Head-On - Bicyclist                                           |       6 |      157 |  0.411099   |
+| Crossing Paths - Midblock - Other / Unknown                   |       1 |       27 |  0.44245    |
+| Crossing Paths - Intersection - Other / Unknown               |       4 |      110 |  0.460799   |
+| Bicyclist Failed to Clear - Trapped                           |       1 |       32 |  0.612349   |
+| Head-On - Motorist                                            |       1 |       33 |  0.64312    |
+| Motorist Drive Out - Residential Driveway                     |       1 |       34 |  0.672973   |
+| Bicyclist Ride Out - Midblock - Unknown                       |       3 |      112 |  0.766499   |
+| Signalized Intersection - Other / Unknown                     |       3 |      145 |  1.02473    |
+| Motorist Drive Through - Sign-Controlled Intersection         |       1 |       51 |  1.07844    |
+| Motorist Drive Out - Right Turn on Red                        |       2 |      123 |  1.26565    |
+| Sign-Controlled Intersection - Other / Unknown                |       1 |       64 |  1.3055     |
+| Unknown Approach Paths                                        |       1 |       65 |  1.321      |
+| Bicyclist Ride Out - Signalized  Intersection                 |       1 |       89 |  1.63525    |
+| Bicyclist Ride Through - Signalized Intersection              |       2 |      192 |  1.71096    |
+| Bicyclist Ride Out - Sign-Controlled Intersection             |       1 |      115 |  1.89154    |
+| Non-Roadway                                                   |       2 |      317 |  2.21237    |
+| Bicyclist Ride Through - Sign-Controlled Intersection         |       1 |      382 |  3.09203    |
++---------------------------------------------------------------+---------+----------+-------------+
++------------------------+---------+----------+------------+
+|                        |   wlane |   wolane |   WoEScore |
+|------------------------+---------+----------+------------|
+| Institutional          |      20 |      198 | -0.560852  |
+| Farms, Woods, Pastures |      78 |      844 | -0.471943  |
+| Commercial             |     173 |     2961 | -0.0133964 |
+| Residential            |     136 |     3031 |  0.250606  |
++------------------------+---------+----------+------------+
++--------------------+---------+----------+------------+
+|                    |   wlane |   wolane |   WoEScore |
+|--------------------+---------+----------+------------|
+| Unknown Injury     |      73 |      972 | -0.264491  |
+| C: Possible Injury |       7 |       99 | -0.204177  |
+| O: No Injury       |     324 |     5920 |  0.0519611 |
+| B: Evident Injury  |       3 |       58 |  0.108444  |
++--------------------+---------+----------+------------+
+
+Process finished with exit code 0

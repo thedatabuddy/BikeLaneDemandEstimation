@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 from tabulate import tabulate
 from sklearn.model_selection import train_test_split
 from sklearn.naive_bayes import MultinomialNB
@@ -55,4 +56,9 @@ scores.loc[scores['Model']=='Random Forest','Precision score']=precision_score(y
 scores.loc[scores['Model']=='Random Forest','Recall score']=recall_score(y_test, predictions_rdmfrst,average='weighted')
 scores.loc[scores['Model']=='Random Forest','F1 score']=f1_score(y_test, predictions_rdmfrst,average='weighted')
 
-print(pdtabulate(scores))
+misclassified = np.where(y_test != predictions_rdmfrst)
+print(misclassified)
+print(pdtabulate(pd.DataFrame(x_test).sort_index()))
+# print(pdtabulate(pd.DataFrame(y_test).sort_index))
+# print(pdtabulate(pd.DataFrame(predictions_rdmfrst)))
+# print(pdtabulate(scores))

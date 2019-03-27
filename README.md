@@ -1,4 +1,4 @@
-# Bike Lane Recommender System (Project Under Development)
+# Bike Lane Demand Estimation Model (Project Under Development)
 
 This is a project that tries to analyze various conditions of a road and tries to recommend the need of a bike lane based on the features of the input road.
 

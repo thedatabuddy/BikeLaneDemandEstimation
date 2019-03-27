@@ -1,6 +1,6 @@
 # Bike Lane Demand Estimation Model (Project Under Development)
 
-This is a project that tries to analyze various conditions of a road and tries to recommend the need of a bike lane based on the features of the input road.
+This is a project that tries to analyze various conditions of a road and tries to estimate the need of a bike lane based on the features of the input road.
 
 The major factors being considered are -
 
